@@ -49,3 +49,7 @@ The number is also not computable from the official source. The MSSS feed carrie
 the current hour only — once it refreshes, the previous reading is gone from it.
 A minimum across a week exists only if somebody kept the hours, which is what this
 repo is for.
+
+---
+
+Second script: `within_region_gap.py` compares each ED with the other EDs in its own region. Output is checked in at `within-region-gap.txt`.

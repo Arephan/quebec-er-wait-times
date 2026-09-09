@@ -1,0 +1,19 @@
+14 regions with at least two continuously reporting emergency departments
+readings per facility: at least 100
+
+region                             EDs     gap  busiest (median)                             emptiest (median)                            split hours
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Côte-Nord                            8    180p  HÔPITAL ET CLSC DE SEPT-ÎLES (180%)          CENTRE MULTISERVICES DE SANTÉ ET D (0%)          151/163
+Montréal                            17    170p  HÔPITAL ROYAL VICTORIA (206%)                INSTITUT DE CARDIOLOGIE DE MONTRÉA (36%)         163/163
+Outaouais                            8    154p  HÔPITAL DE GATINEAU (154%)                   CLSC ET CENTRE D'HÉBERGEMENT DE LA (0%)          152/162
+Gaspésie-Îles-de-la-Madeleine        8    133p  HÔPITAL DE GASPÉ (133%)                      CLSC ET CENTRE DE SERVICES AMBULAT (0%)          145/163
+Estrie                               8    123p  CHUS - HÔTEL-DIEU DE SHERBROOKE (123%)       CENTRE MULTISERVICES DE SANTÉ ET D (0%)          128/163
+Abitibi-Témiscamingue                6    114p  HÔPITAL D'AMOS (114%)                        CENTRE MULTISERVICES DE SANTÉ ET D (0%)           89/163
+Capitale-Nationale                  12    106p  HÔPITAL SAINT-FRANÇOIS D'ASSISE (106%)       CENTRE MULTISERVICES DE SANTÉ ET D (0%)          112/163
+Bas-Saint-Laurent                    8    100p  HÔPITAL RÉGIONAL DE RIMOUSKI (100%)          CLSC DE POHÉNÉGAMOOK (0%)                         98/163
+Nord-du-Québec                       5     83p  CENTRE DE SANTÉ DE CHIBOUGAMAU (83%)         CENTRE DE SANTÉ RENÉ-RICARD (0%)                  56/163
+Montérégie                           8     76p  HÔPITAL DU SUROÎT (156%)                     HÔPITAL BARRIE MEMORIAL / BARRIE M (80%)          88/163
+Laurentides                          6     61p  HÔPITAL DE SAINT-EUSTACHE (149%)             CENTRE MULTISERVICES DE SANTÉ ET D (88%)          82/163
+Chaudière-Appalaches                 4     41p  HÔTEL-DIEU DE LÉVIS (112%)                   HÔPITAL DE SAINT-GEORGES (71%)                    99/163
+Saguenay-Lac-Saint-Jean              6     30p  HÔPITAL DE CHICOUTIMI (71%)                  HÔPITAL D'ALMA (41%)                               5/162
+Lanaudière                           2      3p  HÔPITAL DE LANAUDIÈRE ET CENTRE D' (114%)    HÔPITAL PIERRE-LE GARDEUR (111%)                  20/161
