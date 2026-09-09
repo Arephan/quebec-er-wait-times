@@ -19554,3 +19554,1083 @@ ts_local,facility_id,facility_name,region_code,region_name,slug,stretcher_occupa
 2026-09-09T00:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,159,17,54
 2026-09-09T00:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,208,39,152
 2026-09-09T00:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T01:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T01:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,161,56,141
+2026-09-09T01:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,81,28,59
+2026-09-09T01:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,118,15,70
+2026-09-09T01:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,95,6,23
+2026-09-09T01:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,113,4,22
+2026-09-09T01:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,102,33,77
+2026-09-09T01:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,97,3,35
+2026-09-09T01:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,125,11,21
+2026-09-09T01:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,60,0,4
+2026-09-09T01:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,138,10,48
+2026-09-09T01:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,100,1,9
+2026-09-09T01:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,66,30,57
+2026-09-09T01:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,117,1,9
+2026-09-09T01:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T01:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T01:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T01:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T01:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,2
+2026-09-09T01:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T01:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,2,5
+2026-09-09T01:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,127,5,19
+2026-09-09T01:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T01:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,40,7,13
+2026-09-09T01:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,0,4,9
+2026-09-09T01:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,1
+2026-09-09T01:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,50,0,2
+2026-09-09T01:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T01:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T01:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T01:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T01:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,4,9
+2026-09-09T01:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T01:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,29,1,3
+2026-09-09T01:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T01:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,29,5,11
+2026-09-09T01:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,125,40,71
+2026-09-09T01:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,148,19,69
+2026-09-09T01:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T01:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,100,0,6
+2026-09-09T01:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,150,25,60
+2026-09-09T01:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,167,26,59
+2026-09-09T01:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,197,32,108
+2026-09-09T01:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,3,5
+2026-09-09T01:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,23,44
+2026-09-09T01:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,56,18,27
+2026-09-09T01:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T01:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,100,0,5
+2026-09-09T01:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,18,29
+2026-09-09T01:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,33,0,2
+2026-09-09T01:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,135,25,86
+2026-09-09T01:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,0,7
+2026-09-09T01:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,50,2,6
+2026-09-09T01:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,125,5,20
+2026-09-09T01:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,0,2
+2026-09-09T01:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,80,16,22
+2026-09-09T01:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T01:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,100,55,107
+2026-09-09T01:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,100,29,53
+2026-09-09T01:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,8,17
+2026-09-09T01:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,200,19,81
+2026-09-09T01:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,100,6,21
+2026-09-09T01:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T01:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T01:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,2,4
+2026-09-09T01:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,155,43,125
+2026-09-09T01:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,60,3,11
+2026-09-09T01:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T01:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,25,13,15
+2026-09-09T01:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,17,17,20
+2026-09-09T01:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,166,34,90
+2026-09-09T01:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,130,39,102
+2026-09-09T01:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,100,3,11
+2026-09-09T01:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,88,22,31
+2026-09-09T01:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,90,10,31
+2026-09-09T01:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,121,62,122
+2026-09-09T01:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,105,35,80
+2026-09-09T01:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,165,20,47
+2026-09-09T01:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,153,8,62
+2026-09-09T01:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,116,18,56
+2026-09-09T01:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,106,23,39
+2026-09-09T01:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,112,26,55
+2026-09-09T01:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,230,15,38
+2026-09-09T01:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,105,6,26
+2026-09-09T01:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T01:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,116,67,120
+2026-09-09T01:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,119,24,82
+2026-09-09T01:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T01:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T01:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,22,64
+2026-09-09T01:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,33,0,2
+2026-09-09T01:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,157,49,130
+2026-09-09T01:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,129,16,62
+2026-09-09T01:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,5,7
+2026-09-09T01:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,126,30,93
+2026-09-09T01:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,0,0
+2026-09-09T01:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T01:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,1,2
+2026-09-09T01:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,0,1
+2026-09-09T01:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T01:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T01:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,90,5,14
+2026-09-09T01:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,87,3,17
+2026-09-09T01:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,4,12
+2026-09-09T01:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T01:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,133,19,42
+2026-09-09T01:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,100,4,10
+2026-09-09T01:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T01:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T01:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,0,1
+2026-09-09T01:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,20,2,5
+2026-09-09T01:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,14,10,13
+2026-09-09T01:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T01:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T01:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,50,0,4
+2026-09-09T01:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,50,3,14
+2026-09-09T01:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,181,8,67
+2026-09-09T01:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,155,16,51
+2026-09-09T01:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,187,44,139
+2026-09-09T01:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T02:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T02:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T02:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,83,22,55
+2026-09-09T02:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,118,12,63
+2026-09-09T02:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,105,6,25
+2026-09-09T02:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,120,2,20
+2026-09-09T02:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,109,29,75
+2026-09-09T02:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,97,1,33
+2026-09-09T02:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,125,6,18
+2026-09-09T02:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,60,0,4
+2026-09-09T02:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,142,11,50
+2026-09-09T02:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,100,0,9
+2026-09-09T02:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,66,24,55
+2026-09-09T02:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,117,3,10
+2026-09-09T02:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T02:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T02:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T02:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T02:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,2
+2026-09-09T02:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T02:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,57,2,5
+2026-09-09T02:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,127,6,20
+2026-09-09T02:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T02:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,40,3,12
+2026-09-09T02:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,0,1,5
+2026-09-09T02:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,1
+2026-09-09T02:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,50,1,3
+2026-09-09T02:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T02:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T02:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T02:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T02:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,3,9
+2026-09-09T02:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T02:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,0,1
+2026-09-09T02:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T02:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,2,12
+2026-09-09T02:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,136,35,67
+2026-09-09T02:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,148,19,69
+2026-09-09T02:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T02:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,100,0,7
+2026-09-09T02:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,131,23,54
+2026-09-09T02:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,167,27,50
+2026-09-09T02:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,203,32,109
+2026-09-09T02:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,3,5
+2026-09-09T02:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,20,40
+2026-09-09T02:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,56,11,18
+2026-09-09T02:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T02:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,75,0,3
+2026-09-09T02:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,15,28
+2026-09-09T02:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,0,1
+2026-09-09T02:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,137,18,83
+2026-09-09T02:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,1,8
+2026-09-09T02:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,50,0,5
+2026-09-09T02:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,100,4,16
+2026-09-09T02:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,0,2
+2026-09-09T02:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,22
+2026-09-09T02:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T02:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,102,52,105
+2026-09-09T02:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,105,27,54
+2026-09-09T02:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,8,17
+2026-09-09T02:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,18,80
+2026-09-09T02:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,100,3,18
+2026-09-09T02:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T02:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T02:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,1
+2026-09-09T02:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,151,38,117
+2026-09-09T02:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,70,2,10
+2026-09-09T02:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T02:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,25,11,13
+2026-09-09T02:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,25,13,17
+2026-09-09T02:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,163,28,82
+2026-09-09T02:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,136,35,96
+2026-09-09T02:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,114,3,12
+2026-09-09T02:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,75,19,28
+2026-09-09T02:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,90,8,29
+2026-09-09T02:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,126,58,118
+2026-09-09T02:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,100,32,74
+2026-09-09T02:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,171,19,47
+2026-09-09T02:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,153,8,62
+2026-09-09T02:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,116,15,54
+2026-09-09T02:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,106,20,39
+2026-09-09T02:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,112,20,49
+2026-09-09T02:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,240,9,35
+2026-09-09T02:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,105,5,25
+2026-09-09T02:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T02:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,128,64,120
+2026-09-09T02:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,119,17,74
+2026-09-09T02:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T02:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T02:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,18,64
+2026-09-09T02:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,33,0,1
+2026-09-09T02:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,155,48,126
+2026-09-09T02:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,131,18,64
+2026-09-09T02:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,4,6
+2026-09-09T02:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,126,19,82
+2026-09-09T02:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,0,0
+2026-09-09T02:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T02:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,1,2
+2026-09-09T02:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,0,1
+2026-09-09T02:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T02:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T02:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,100,4,14
+2026-09-09T02:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,93,0,15
+2026-09-09T02:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,38,1,7
+2026-09-09T02:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T02:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,133,13,36
+2026-09-09T02:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,100,1,7
+2026-09-09T02:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T02:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T02:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,1,2
+2026-09-09T02:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,20,0,5
+2026-09-09T02:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,8,11
+2026-09-09T02:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T02:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T02:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,50,0,3
+2026-09-09T02:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,50,1,13
+2026-09-09T02:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,184,9,69
+2026-09-09T02:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,150,16,51
+2026-09-09T02:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,183,46,139
+2026-09-09T02:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T03:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T03:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T03:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,78,21,52
+2026-09-09T03:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,118,13,66
+2026-09-09T03:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,100,6,25
+2026-09-09T03:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,113,0,17
+2026-09-09T03:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,107,19,69
+2026-09-09T03:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,100,2,35
+2026-09-09T03:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,4,16
+2026-09-09T03:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,60,0,4
+2026-09-09T03:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,150,11,50
+2026-09-09T03:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,89,0,9
+2026-09-09T03:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,66,23,53
+2026-09-09T03:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,117,1,10
+2026-09-09T03:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T03:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T03:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T03:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T03:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,2
+2026-09-09T03:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T03:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,0,5
+2026-09-09T03:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,136,7,19
+2026-09-09T03:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T03:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,40,3,13
+2026-09-09T03:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,0,0,2
+2026-09-09T03:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,1
+2026-09-09T03:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,50,1,4
+2026-09-09T03:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T03:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T03:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T03:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T03:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,1,8
+2026-09-09T03:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T03:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,0,1
+2026-09-09T03:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T03:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,0,4
+2026-09-09T03:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,136,26,60
+2026-09-09T03:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,140,17,63
+2026-09-09T03:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T03:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,1,8
+2026-09-09T03:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,100,23,45
+2026-09-09T03:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,158,25,51
+2026-09-09T03:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,197,28,108
+2026-09-09T03:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,1,3
+2026-09-09T03:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,93,20,36
+2026-09-09T03:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,56,10,18
+2026-09-09T03:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T03:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,75,0,3
+2026-09-09T03:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,13,27
+2026-09-09T03:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,0,1
+2026-09-09T03:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,140,19,82
+2026-09-09T03:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,1,8
+2026-09-09T03:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,50,0,5
+2026-09-09T03:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,100,4,17
+2026-09-09T03:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,0,2
+2026-09-09T03:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,22
+2026-09-09T03:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T03:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,104,47,100
+2026-09-09T03:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,110,27,54
+2026-09-09T03:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,6,16
+2026-09-09T03:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,12,74
+2026-09-09T03:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,107,5,18
+2026-09-09T03:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T03:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T03:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,1
+2026-09-09T03:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,157,37,121
+2026-09-09T03:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,70,0,7
+2026-09-09T03:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T03:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,25,11,14
+2026-09-09T03:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,33,9,15
+2026-09-09T03:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,169,22,79
+2026-09-09T03:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,134,29,89
+2026-09-09T03:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,114,2,11
+2026-09-09T03:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,75,18,27
+2026-09-09T03:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,90,6,26
+2026-09-09T03:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,130,54,118
+2026-09-09T03:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,108,28,70
+2026-09-09T03:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,171,16,43
+2026-09-09T03:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,147,8,60
+2026-09-09T03:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,119,14,52
+2026-09-09T03:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,113,16,37
+2026-09-09T03:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,112,18,48
+2026-09-09T03:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,240,9,34
+2026-09-09T03:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,105,6,25
+2026-09-09T03:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T03:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,133,60,121
+2026-09-09T03:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,119,11,72
+2026-09-09T03:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T03:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T03:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,19,66
+2026-09-09T03:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,33,0,2
+2026-09-09T03:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,163,46,129
+2026-09-09T03:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,134,20,66
+2026-09-09T03:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,2,4
+2026-09-09T03:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,126,15,77
+2026-09-09T03:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,0,1
+2026-09-09T03:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T03:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,1,2
+2026-09-09T03:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,0,1
+2026-09-09T03:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T03:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T03:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,100,2,14
+2026-09-09T03:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,87,0,14
+2026-09-09T03:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,50,0,6
+2026-09-09T03:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T03:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,133,11,36
+2026-09-09T03:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,100,0,7
+2026-09-09T03:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T03:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T03:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,0,2
+2026-09-09T03:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,20,1,2
+2026-09-09T03:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,4,6
+2026-09-09T03:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T03:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T03:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,67,1,4
+2026-09-09T03:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,55,1,14
+2026-09-09T03:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,190,5,66
+2026-09-09T03:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,150,16,51
+2026-09-09T03:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,179,44,138
+2026-09-09T03:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T04:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T04:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T04:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,67,20,47
+2026-09-09T04:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,118,11,64
+2026-09-09T04:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,100,4,25
+2026-09-09T04:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,107,1,17
+2026-09-09T04:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,107,13,64
+2026-09-09T04:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,100,2,35
+2026-09-09T04:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,0,13
+2026-09-09T04:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,60,0,4
+2026-09-09T04:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,158,10,52
+2026-09-09T04:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,100,0,9
+2026-09-09T04:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,66,21,51
+2026-09-09T04:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,0,8
+2026-09-09T04:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T04:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T04:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T04:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T04:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,2
+2026-09-09T04:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T04:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,0,5
+2026-09-09T04:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,136,6,20
+2026-09-09T04:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T04:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,50,1,7
+2026-09-09T04:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,0,1,3
+2026-09-09T04:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,1,2
+2026-09-09T04:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,100,0,4
+2026-09-09T04:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T04:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T04:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T04:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T04:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,1,8
+2026-09-09T04:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T04:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,0,1
+2026-09-09T04:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T04:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,0,3
+2026-09-09T04:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,132,26,60
+2026-09-09T04:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,140,15,56
+2026-09-09T04:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T04:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,1,7
+2026-09-09T04:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,100,23,47
+2026-09-09T04:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,158,25,54
+2026-09-09T04:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,200,29,106
+2026-09-09T04:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,0,1
+2026-09-09T04:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,20,37
+2026-09-09T04:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,50,7,15
+2026-09-09T04:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T04:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,75,0,4
+2026-09-09T04:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,12,27
+2026-09-09T04:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,1,2
+2026-09-09T04:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,142,16,81
+2026-09-09T04:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,1,8
+2026-09-09T04:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,50,0,4
+2026-09-09T04:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,100,4,17
+2026-09-09T04:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,1,3
+2026-09-09T04:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,22
+2026-09-09T04:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T04:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,109,43,99
+2026-09-09T04:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,115,24,52
+2026-09-09T04:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,3,13
+2026-09-09T04:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,10,75
+2026-09-09T04:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,2,18
+2026-09-09T04:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T04:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T04:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,2
+2026-09-09T04:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,165,37,124
+2026-09-09T04:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,70,0,7
+2026-09-09T04:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T04:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,50,9,12
+2026-09-09T04:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,33,9,13
+2026-09-09T04:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,163,22,80
+2026-09-09T04:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,136,28,96
+2026-09-09T04:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,143,0,11
+2026-09-09T04:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,75,11,22
+2026-09-09T04:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,95,6,26
+2026-09-09T04:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,132,47,112
+2026-09-09T04:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,108,21,63
+2026-09-09T04:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,182,16,43
+2026-09-09T04:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,150,5,59
+2026-09-09T04:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,122,14,52
+2026-09-09T04:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,113,14,35
+2026-09-09T04:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,112,16,51
+2026-09-09T04:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,250,7,32
+2026-09-09T04:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,100,4,24
+2026-09-09T04:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T04:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,140,52,114
+2026-09-09T04:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,121,12,75
+2026-09-09T04:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T04:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T04:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,19,66
+2026-09-09T04:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,33,0,2
+2026-09-09T04:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,169,46,131
+2026-09-09T04:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,140,21,70
+2026-09-09T04:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,0,0
+2026-09-09T04:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,126,11,75
+2026-09-09T04:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,0,0
+2026-09-09T04:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T04:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,1,2
+2026-09-09T04:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,0,1
+2026-09-09T04:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T04:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T04:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,100,1,15
+2026-09-09T04:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,87,1,15
+2026-09-09T04:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,50,1,8
+2026-09-09T04:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T04:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,139,9,32
+2026-09-09T04:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,100,0,8
+2026-09-09T04:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T04:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T04:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,0,1
+2026-09-09T04:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,20,1,2
+2026-09-09T04:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,2,5
+2026-09-09T04:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T04:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T04:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,67,0,4
+2026-09-09T04:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,55,1,13
+2026-09-09T04:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,190,5,65
+2026-09-09T04:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,150,15,52
+2026-09-09T04:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,189,37,138
+2026-09-09T04:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T05:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T05:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T05:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,64,19,45
+2026-09-09T05:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,120,12,67
+2026-09-09T05:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,105,1,25
+2026-09-09T05:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,107,1,17
+2026-09-09T05:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,109,11,64
+2026-09-09T05:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,100,2,36
+2026-09-09T05:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,1,14
+2026-09-09T05:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,80,1,5
+2026-09-09T05:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,158,13,56
+2026-09-09T05:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,100,0,9
+2026-09-09T05:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,71,18,51
+2026-09-09T05:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,0,8
+2026-09-09T05:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T05:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T05:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T05:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T05:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,3
+2026-09-09T05:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T05:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,0,6
+2026-09-09T05:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,136,1,17
+2026-09-09T05:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T05:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,50,1,6
+2026-09-09T05:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,6,3,5
+2026-09-09T05:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,2
+2026-09-09T05:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,100,0,4
+2026-09-09T05:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T05:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T05:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T05:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T05:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,0,6
+2026-09-09T05:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T05:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,0,1
+2026-09-09T05:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T05:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,1,4
+2026-09-09T05:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,136,25,61
+2026-09-09T05:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,140,10,54
+2026-09-09T05:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T05:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,1,7
+2026-09-09T05:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,94,21,44
+2026-09-09T05:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,158,14,50
+2026-09-09T05:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,200,28,108
+2026-09-09T05:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,1,2
+2026-09-09T05:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,14,32
+2026-09-09T05:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,50,6,15
+2026-09-09T05:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T05:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,75,0,4
+2026-09-09T05:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,11,28
+2026-09-09T05:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,0,2
+2026-09-09T05:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,144,13,82
+2026-09-09T05:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,1,8
+2026-09-09T05:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,50,0,5
+2026-09-09T05:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,108,2,18
+2026-09-09T05:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,1,3
+2026-09-09T05:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,22
+2026-09-09T05:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T05:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,111,45,105
+2026-09-09T05:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,120,21,50
+2026-09-09T05:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,77,2,13
+2026-09-09T05:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,7,73
+2026-09-09T05:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,5,21
+2026-09-09T05:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T05:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T05:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,2
+2026-09-09T05:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,165,34,120
+2026-09-09T05:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,70,1,8
+2026-09-09T05:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T05:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,50,8,11
+2026-09-09T05:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,33,8,13
+2026-09-09T05:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,166,20,81
+2026-09-09T05:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,140,24,94
+2026-09-09T05:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,143,1,11
+2026-09-09T05:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,75,2,10
+2026-09-09T05:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,95,1,22
+2026-09-09T05:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,130,40,105
+2026-09-09T05:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,105,23,62
+2026-09-09T05:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,182,16,44
+2026-09-09T05:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,147,3,55
+2026-09-09T05:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,122,12,49
+2026-09-09T05:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,125,9,31
+2026-09-09T05:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,119,15,51
+2026-09-09T05:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,240,5,31
+2026-09-09T05:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,95,4,25
+2026-09-09T05:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T05:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,137,43,106
+2026-09-09T05:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,123,11,70
+2026-09-09T05:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T05:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T05:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,19,66
+2026-09-09T05:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,0,0,0
+2026-09-09T05:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,173,49,138
+2026-09-09T05:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,140,22,71
+2026-09-09T05:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,0,0
+2026-09-09T05:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,129,8,70
+2026-09-09T05:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,0,0
+2026-09-09T05:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T05:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,1,2
+2026-09-09T05:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,1,2
+2026-09-09T05:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T05:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T05:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,100,0,15
+2026-09-09T05:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,87,1,15
+2026-09-09T05:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,1,8
+2026-09-09T05:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T05:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,144,8,33
+2026-09-09T05:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,114,1,9
+2026-09-09T05:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T05:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T05:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,0,1
+2026-09-09T05:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,20,0,1
+2026-09-09T05:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,3,5
+2026-09-09T05:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T05:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T05:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,67,0,4
+2026-09-09T05:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,55,0,12
+2026-09-09T05:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,187,2,63
+2026-09-09T05:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,155,14,51
+2026-09-09T05:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,185,36,136
+2026-09-09T05:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T06:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T06:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T06:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,67,20,46
+2026-09-09T06:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,123,11,64
+2026-09-09T06:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,105,2,26
+2026-09-09T06:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,107,1,17
+2026-09-09T06:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,105,11,60
+2026-09-09T06:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,100,1,37
+2026-09-09T06:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,2,14
+2026-09-09T06:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,80,1,5
+2026-09-09T06:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,154,15,57
+2026-09-09T06:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,111,2,12
+2026-09-09T06:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,73,15,51
+2026-09-09T06:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,0,8
+2026-09-09T06:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T06:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,2
+2026-09-09T06:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T06:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T06:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,3
+2026-09-09T06:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,1,2
+2026-09-09T06:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,1,6
+2026-09-09T06:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,127,2,18
+2026-09-09T06:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T06:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,50,0,7
+2026-09-09T06:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,6,3,6
+2026-09-09T06:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,2
+2026-09-09T06:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,100,0,4
+2026-09-09T06:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T06:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T06:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T06:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T06:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,1,7
+2026-09-09T06:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T06:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,1,2
+2026-09-09T06:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T06:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,2,5
+2026-09-09T06:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,136,23,60
+2026-09-09T06:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,136,10,56
+2026-09-09T06:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T06:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,1,7
+2026-09-09T06:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,94,23,43
+2026-09-09T06:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,158,1,41
+2026-09-09T06:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,200,30,112
+2026-09-09T06:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,20,2,3
+2026-09-09T06:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,13,31
+2026-09-09T06:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,50,5,14
+2026-09-09T06:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T06:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,100,1,5
+2026-09-09T06:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,12,23
+2026-09-09T06:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,0,3
+2026-09-09T06:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,147,8,83
+2026-09-09T06:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,1,8
+2026-09-09T06:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,67,1,7
+2026-09-09T06:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,125,3,20
+2026-09-09T06:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,1,3
+2026-09-09T06:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,22
+2026-09-09T06:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T06:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,111,43,99
+2026-09-09T06:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,125,11,41
+2026-09-09T06:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,77,4,15
+2026-09-09T06:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,200,6,73
+2026-09-09T06:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,5,21
+2026-09-09T06:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T06:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T06:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,3
+2026-09-09T06:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,165,34,123
+2026-09-09T06:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,60,1,7
+2026-09-09T06:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T06:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,50,3,7
+2026-09-09T06:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,33,6,11
+2026-09-09T06:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,163,23,82
+2026-09-09T06:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,136,23,88
+2026-09-09T06:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,143,0,10
+2026-09-09T06:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,75,0,11
+2026-09-09T06:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,95,0,21
+2026-09-09T06:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,134,37,103
+2026-09-09T06:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,108,23,62
+2026-09-09T06:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,188,16,45
+2026-09-09T06:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,147,2,54
+2026-09-09T06:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,125,12,52
+2026-09-09T06:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,131,11,33
+2026-09-09T06:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,119,18,53
+2026-09-09T06:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,230,3,28
+2026-09-09T06:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,105,7,28
+2026-09-09T06:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T06:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,140,41,107
+2026-09-09T06:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,123,10,71
+2026-09-09T06:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T06:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T06:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,19,66
+2026-09-09T06:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,0,1,1
+2026-09-09T06:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,173,46,137
+2026-09-09T06:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,140,18,70
+2026-09-09T06:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,0,0
+2026-09-09T06:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,129,5,67
+2026-09-09T06:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,1,1
+2026-09-09T06:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,0,0
+2026-09-09T06:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,100,2,3
+2026-09-09T06:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,2,4
+2026-09-09T06:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T06:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T06:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,100,0,12
+2026-09-09T06:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,93,1,16
+2026-09-09T06:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,1,6
+2026-09-09T06:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T06:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,144,7,34
+2026-09-09T06:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,114,0,9
+2026-09-09T06:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,0,3
+2026-09-09T06:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T06:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,0,1
+2026-09-09T06:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,40,2,4
+2026-09-09T06:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,3,5
+2026-09-09T06:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T06:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T06:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,67,0,6
+2026-09-09T06:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,55,0,12
+2026-09-09T06:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,181,4,66
+2026-09-09T06:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,155,17,55
+2026-09-09T06:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,191,33,135
+2026-09-09T06:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T07:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T07:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,53,138
+2026-09-09T07:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,67,17,46
+2026-09-09T07:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,123,10,63
+2026-09-09T07:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,105,3,27
+2026-09-09T07:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,113,0,17
+2026-09-09T07:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,100,10,56
+2026-09-09T07:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,97,2,38
+2026-09-09T07:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,4,16
+2026-09-09T07:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,80,1,5
+2026-09-09T07:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,154,13,57
+2026-09-09T07:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,111,2,13
+2026-09-09T07:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,78,15,50
+2026-09-09T07:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,0,8
+2026-09-09T07:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,1,2
+2026-09-09T07:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,3
+2026-09-09T07:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,0
+2026-09-09T07:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T07:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,0,3
+2026-09-09T07:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,1,2
+2026-09-09T07:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,29,3,6
+2026-09-09T07:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,127,4,18
+2026-09-09T07:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T07:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,50,1,8
+2026-09-09T07:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,6,6,9
+2026-09-09T07:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,0,2
+2026-09-09T07:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,100,0,4
+2026-09-09T07:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,0
+2026-09-09T07:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T07:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T07:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T07:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,1,7
+2026-09-09T07:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T07:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,2,3
+2026-09-09T07:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,3
+2026-09-09T07:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,43,4,7
+2026-09-09T07:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,132,25,56
+2026-09-09T07:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,136,9,57
+2026-09-09T07:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,0,5
+2026-09-09T07:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,1,8
+2026-09-09T07:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,94,18,43
+2026-09-09T07:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,175,2,35
+2026-09-09T07:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,209,32,115
+2026-09-09T07:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,40,4,6
+2026-09-09T07:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,100,16,33
+2026-09-09T07:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,50,5,17
+2026-09-09T07:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,1
+2026-09-09T07:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,100,2,6
+2026-09-09T07:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,10,23
+2026-09-09T07:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,1,3
+2026-09-09T07:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,156,9,80
+2026-09-09T07:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,3,10
+2026-09-09T07:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,67,5,10
+2026-09-09T07:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,133,4,21
+2026-09-09T07:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,2,5
+2026-09-09T07:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,100,17,23
+2026-09-09T07:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T07:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,111,42,97
+2026-09-09T07:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,125,11,42
+2026-09-09T07:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,4,16
+2026-09-09T07:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,5,72
+2026-09-09T07:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,6,22
+2026-09-09T07:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T07:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T07:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,2
+2026-09-09T07:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,167,32,124
+2026-09-09T07:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,60,3,10
+2026-09-09T07:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T07:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,50,1,5
+2026-09-09T07:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,58,6,13
+2026-09-09T07:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,166,22,79
+2026-09-09T07:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,136,25,94
+2026-09-09T07:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,143,0,10
+2026-09-09T07:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,88,3,11
+2026-09-09T07:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,100,2,23
+2026-09-09T07:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,136,35,103
+2026-09-09T07:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,103,24,63
+2026-09-09T07:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,188,19,49
+2026-09-09T07:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,147,8,58
+2026-09-09T07:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,131,13,54
+2026-09-09T07:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,138,15,37
+2026-09-09T07:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,119,20,53
+2026-09-09T07:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,230,5,30
+2026-09-09T07:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,100,5,26
+2026-09-09T07:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T07:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,142,43,109
+2026-09-09T07:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,125,8,72
+2026-09-09T07:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T07:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T07:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,124,19,66
+2026-09-09T07:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,0,1,1
+2026-09-09T07:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,171,40,129
+2026-09-09T07:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,137,11,61
+2026-09-09T07:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,0,0
+2026-09-09T07:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,133,4,67
+2026-09-09T07:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,2,2
+2026-09-09T07:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,1,1
+2026-09-09T07:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,50,1,2
+2026-09-09T07:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,20,4,5
+2026-09-09T07:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T07:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,0
+2026-09-09T07:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,110,2,14
+2026-09-09T07:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,87,5,19
+2026-09-09T07:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,3,9
+2026-09-09T07:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T07:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,144,7,33
+2026-09-09T07:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,114,1,9
+2026-09-09T07:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,2,4
+2026-09-09T07:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T07:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,20,1,2
+2026-09-09T07:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,60,4,7
+2026-09-09T07:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,3,5
+2026-09-09T07:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,0
+2026-09-09T07:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T07:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,67,2,6
+2026-09-09T07:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,50,0,12
+2026-09-09T07:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,184,3,65
+2026-09-09T07:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,155,17,55
+2026-09-09T07:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,191,33,135
+2026-09-09T07:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T08:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T08:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,161,45,130
+2026-09-09T08:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,64,16,44
+2026-09-09T08:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,127,11,65
+2026-09-09T08:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,105,4,29
+2026-09-09T08:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,107,0,17
+2026-09-09T08:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,98,11,61
+2026-09-09T08:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,103,13,49
+2026-09-09T08:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,4,15
+2026-09-09T08:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,40,4,6
+2026-09-09T08:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,154,10,55
+2026-09-09T08:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,111,4,14
+2026-09-09T08:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,78,16,50
+2026-09-09T08:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,0,8
+2026-09-09T08:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,0,0,2
+2026-09-09T08:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,3
+2026-09-09T08:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,1
+2026-09-09T08:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T08:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,67,2,5
+2026-09-09T08:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,0,1
+2026-09-09T08:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,43,4,7
+2026-09-09T08:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,136,7,21
+2026-09-09T08:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T08:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,30,5,11
+2026-09-09T08:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,6,15,21
+2026-09-09T08:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,33,1,3
+2026-09-09T08:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,100,1,5
+2026-09-09T08:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,0,0,1
+2026-09-09T08:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T08:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T08:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T08:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,2,8
+2026-09-09T08:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,0,3
+2026-09-09T08:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,14,1,3
+2026-09-09T08:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,1,4
+2026-09-09T08:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,57,8,13
+2026-09-09T08:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,136,26,57
+2026-09-09T08:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,144,10,58
+2026-09-09T08:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,20,3,8
+2026-09-09T08:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,117,2,8
+2026-09-09T08:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,106,12,38
+2026-09-09T08:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,175,5,33
+2026-09-09T08:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,209,28,114
+2026-09-09T08:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,40,7,10
+2026-09-09T08:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,93,22,38
+2026-09-09T08:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,44,10,23
+2026-09-09T08:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,0,0,6
+2026-09-09T08:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,125,1,6
+2026-09-09T08:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,9,24
+2026-09-09T08:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,0,2,4
+2026-09-09T08:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,156,7,87
+2026-09-09T08:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,75,1,9
+2026-09-09T08:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,67,3,11
+2026-09-09T08:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,142,6,22
+2026-09-09T08:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,5,12
+2026-09-09T08:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,80,7,12
+2026-09-09T08:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T08:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,111,31,98
+2026-09-09T08:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,135,15,46
+2026-09-09T08:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,69,6,18
+2026-09-09T08:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,197,8,76
+2026-09-09T08:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,5,24
+2026-09-09T08:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T08:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T08:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,0,3
+2026-09-09T08:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,167,31,118
+2026-09-09T08:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,60,6,13
+2026-09-09T08:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T08:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,100,4,9
+2026-09-09T08:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,58,7,13
+2026-09-09T08:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,169,24,84
+2026-09-09T08:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,136,24,87
+2026-09-09T08:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,129,0,10
+2026-09-09T08:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,100,10,19
+2026-09-09T08:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,110,3,27
+2026-09-09T08:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,138,35,104
+2026-09-09T08:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,105,27,66
+2026-09-09T08:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,200,19,51
+2026-09-09T08:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,153,6,59
+2026-09-09T08:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,131,10,54
+2026-09-09T08:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,138,18,38
+2026-09-09T08:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,123,19,56
+2026-09-09T08:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,210,6,29
+2026-09-09T08:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,105,2,26
+2026-09-09T08:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T08:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,140,43,112
+2026-09-09T08:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,121,10,74
+2026-09-09T08:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T08:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,9
+2026-09-09T08:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,132,15,63
+2026-09-09T08:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,0,2,2
+2026-09-09T08:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,169,39,131
+2026-09-09T08:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,140,11,62
+2026-09-09T08:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,0,3,3
+2026-09-09T08:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,143,13,83
+2026-09-09T08:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,3,3
+2026-09-09T08:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,3,3
+2026-09-09T08:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,50,3,7
+2026-09-09T08:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,40,4,6
+2026-09-09T08:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,0,0
+2026-09-09T08:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,0,5
+2026-09-09T08:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,120,11,23
+2026-09-09T08:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,73,8,20
+2026-09-09T08:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,5,11
+2026-09-09T08:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T08:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,161,11,41
+2026-09-09T08:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,86,1,7
+2026-09-09T08:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,100,4,10
+2026-09-09T08:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,0,0
+2026-09-09T08:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,0,3,3
+2026-09-09T08:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,60,3,7
+2026-09-09T08:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,6,8
+2026-09-09T08:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,0,2
+2026-09-09T08:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,0,1
+2026-09-09T08:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,83,4,11
+2026-09-09T08:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,50,0,14
+2026-09-09T08:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,184,5,65
+2026-09-09T08:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,159,20,61
+2026-09-09T08:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,191,33,135
+2026-09-09T08:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
+2026-09-09T09:00,12475976,HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL,06,Montréal,hopital-du-sacre-coeur-de-montreal,,,
+2026-09-09T09:00,12934659,HÔPITAL MAISONNEUVE-ROSEMONT,06,Montréal,hopital-maisonneuve-rosemont,163,33,126
+2026-09-09T09:00,51216687,CHUS - HÔPITAL FLEURIMONT,05,Estrie,chus-hopital-fleurimont,72,19,50
+2026-09-09T09:00,51216695,CHUS - HÔTEL-DIEU DE SHERBROOKE,05,Estrie,chus-hotel-dieu-de-sherbrooke,130,9,67
+2026-09-09T09:00,51217529,HÔPITAL DU SAINT-SACREMENT,03,Capitale-Nationale,hopital-du-saint-sacrement,100,0,27
+2026-09-09T09:00,51217586,L'HÔTEL-DIEU DE QUÉBEC,03,Capitale-Nationale,l-hotel-dieu-de-quebec,107,1,20
+2026-09-09T09:00,51217594,CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,03,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,95,12,64
+2026-09-09T09:00,51217602,HÔPITAL SAINT-FRANÇOIS D'ASSISE,03,Capitale-Nationale,hopital-saint-francois-d-assise,106,14,53
+2026-09-09T09:00,51217610,HÔPITAL DE MONT-LAURIER,15,Laurentides,hopital-de-mont-laurier,113,2,17
+2026-09-09T09:00,51217628,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,60,2,6
+2026-09-09T09:00,51218097,HÔPITAL DE VERDUN,06,Montréal,hopital-de-verdun,158,14,60
+2026-09-09T09:00,51218352,CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,01,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,111,5,20
+2026-09-09T09:00,51218394,HÔPITAL DE CHICOUTIMI,02,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,80,10,47
+2026-09-09T09:00,51218501,CENTRE DE SANTÉ DE CHIBOUGAMAU,10,Nord-du-Québec,centre-de-sante-de-chibougamau,133,1,9
+2026-09-09T09:00,51218519,CENTRE DE SANTÉ RENÉ-RICARD,10,Nord-du-Québec,centre-de-sante-rene-ricard,100,1,4
+2026-09-09T09:00,51218527,CENTRE DE SANTÉ LEBEL,10,Nord-du-Québec,centre-de-sante-lebel,50,0,3
+2026-09-09T09:00,51218535,CENTRE DE SANTÉ ISLE-DIEU,10,Nord-du-Québec,centre-de-sante-isle-dieu,0,0,4
+2026-09-09T09:00,51218543,CENTRE DE SANTÉ DE RADISSON,10,Nord-du-Québec,centre-de-sante-de-radisson,0,0,1
+2026-09-09T09:00,51218733,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,33,4,7
+2026-09-09T09:00,51218741,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,20,3,4
+2026-09-09T09:00,51218980,HÔPITAL DE MATANE,01,Bas-Saint-Laurent,hopital-de-matane,57,5,13
+2026-09-09T09:00,51219046,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,127,8,22
+2026-09-09T09:00,51219160,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-de-fortierville,,,
+2026-09-09T09:00,51219384,HÔPITAL DE DOLBEAU-MISTASSINI,02,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,30,3,11
+2026-09-09T09:00,51219400,HÔPITAL D'ALMA,02,Saguenay-Lac-Saint-Jean,hopital-d-alma,12,14,23
+2026-09-09T09:00,51219418,CLSC DE POHÉNÉGAMOOK,01,Bas-Saint-Laurent,clsc-de-pohenegamook,0,3,3
+2026-09-09T09:00,51219459,HÔPITAL ET CHSLD DU PONTIAC,07,Outaouais,hopital-et-chsld-du-pontiac,75,0,6
+2026-09-09T09:00,51219491,CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,07,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,100,2,7
+2026-09-09T09:00,51219731,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-du-haut-saint-maurice,,,
+2026-09-09T09:00,51220051,HÔPITAL DU CENTRE-DE-LA-MAURICIE,04,Mauricie et Centre-du-Québec,hopital-du-centre-de-la-mauricie,,,
+2026-09-09T09:00,51220168,PAVILLON SAINTE-MARIE,04,Mauricie et Centre-du-Québec,pavillon-sainte-marie,,,
+2026-09-09T09:00,51220903,HÔPITAL DE GASPÉ,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,100,3,12
+2026-09-09T09:00,51220978,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,75,3,8
+2026-09-09T09:00,51221141,HÔPITAL NOTRE-DAME-DE-FATIMA,01,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,0,0,1
+2026-09-09T09:00,51221307,CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,11,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,0,2,2
+2026-09-09T09:00,51221364,HÔPITAL DE LA BAIE,02,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,57,8,16
+2026-09-09T09:00,51221703,HÔPITAL DE GATINEAU,07,Outaouais,hopital-de-gatineau,143,24,61
+2026-09-09T09:00,51221711,HÔPITAL DE HULL,07,Outaouais,hopital-de-hull,148,9,57
+2026-09-09T09:00,51221877,HÔPITAL DE NOTRE-DAME-DU-LAC,01,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,40,5,12
+2026-09-09T09:00,51221893,HÔPITAL DE MANIWAKI,07,Outaouais,hopital-de-maniwaki,133,3,11
+2026-09-09T09:00,51222800,CHU SAINTE-JUSTINE,06,Montréal,chu-sainte-justine,113,11,44
+2026-09-09T09:00,51223279,L'HÔPITAL DE MONTRÉAL POUR ENFANTS,06,Montréal,l-hopital-de-montreal-pour-enfants,167,12,43
+2026-09-09T09:00,51223295,HÔPITAL ROYAL VICTORIA,06,Montréal,hopital-royal-victoria,209,32,120
+2026-09-09T09:00,51223832,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,60,9,12
+2026-09-09T09:00,51224392,HÔPITAL DE LASALLE,06,Montréal,hopital-de-lasalle,93,23,39
+2026-09-09T09:00,51224541,HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,50,14,29
+2026-09-09T09:00,51225001,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,20,6,16
+2026-09-09T09:00,51225357,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,75,3,10
+2026-09-09T09:00,51225589,HÔPITAL DE VAL-D'OR,08,Abitibi-Témiscamingue,hopital-de-val-d-or,64,8,26
+2026-09-09T09:00,51226892,HÔPITAL D'AMQUI,01,Bas-Saint-Laurent,hopital-d-amqui,17,3,4
+2026-09-09T09:00,51227569,HÔTEL-DIEU DE LÉVIS,12,Chaudière-Appalaches,hotel-dieu-de-levis,153,7,91
+2026-09-09T09:00,51227775,HÔPITAL DE CHANDLER,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,88,2,12
+2026-09-09T09:00,51227783,HÔPITAL DE L'ARCHIPEL,11,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,67,2,11
+2026-09-09T09:00,51227882,HÔPITAL RÉGIONAL DE RIMOUSKI,01,Bas-Saint-Laurent,hopital-regional-de-rimouski,133,3,22
+2026-09-09T09:00,51227908,HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,20,6,12
+2026-09-09T09:00,51228005,HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,16,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,80,12,17
+2026-09-09T09:00,51228039,HÔTEL-DIEU D'ARTHABASKA,04,Mauricie et Centre-du-Québec,hotel-dieu-d-arthabaska,,,
+2026-09-09T09:00,51228062,HÔPITAL PIERRE-LE GARDEUR,14,Lanaudière,hopital-pierre-le-gardeur,111,27,103
+2026-09-09T09:00,51228120,HÔPITAL DE GRANBY,05,Estrie,hopital-de-granby,140,16,51
+2026-09-09T09:00,51228203,HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,02,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,77,4,20
+2026-09-09T09:00,51228278,HÔPITAL GÉNÉRAL DU LAKESHORE,06,Montréal,hopital-general-du-lakeshore,203,7,85
+2026-09-09T09:00,51228310,HÔPITAL DE LACHINE,06,Montréal,hopital-de-lachine,114,0,20
+2026-09-09T09:00,51228492,HÔPITAL FLEURY,06,Montréal,hopital-fleury,,,
+2026-09-09T09:00,51228500,HÔPITAL JEAN-TALON,06,Montréal,hopital-jean-talon,,,
+2026-09-09T09:00,51228690,HÔPITAL ET CLSC DE LA MALBAIE,03,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,11,4,6
+2026-09-09T09:00,51228757,HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,13,Laval,hopital-de-la-cite-de-la-sante,173,24,129
+2026-09-09T09:00,51228765,CLSC ET HÔPITAL LE ROYER,09,Côte-Nord,clsc-et-hopital-le-royer,60,8,15
+2026-09-09T09:00,51228781,HÔPITAL SAINTE-CROIX,04,Mauricie et Centre-du-Québec,hopital-sainte-croix,,,
+2026-09-09T09:00,51228799,HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,07,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,100,8,12
+2026-09-09T09:00,51228823,HÔPITAL ET CHSLD DE PAPINEAU,07,Outaouais,hopital-et-chsld-de-papineau,75,9,17
+2026-09-09T09:00,51228864,HÔPITAL DE SAINT-EUSTACHE,15,Laurentides,hopital-de-saint-eustache,177,27,99
+2026-09-09T09:00,51228880,HÔPITAL DE SAINT-JÉRÔME,15,Laurentides,hopital-de-saint-jerome,134,23,96
+2026-09-09T09:00,51228906,HÔPITAL D'AMOS,08,Abitibi-Témiscamingue,hopital-d-amos,114,2,13
+2026-09-09T09:00,51228922,HÔPITAL DE ROUYN-NORANDA,08,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,113,7,21
+2026-09-09T09:00,51228971,HÔPITAL DE SAINT-GEORGES,12,Chaudière-Appalaches,hopital-de-saint-georges,95,10,34
+2026-09-09T09:00,51229011,HÔPITAL PIERRE-BOUCHER,16,Montérégie,hopital-pierre-boucher,157,41,115
+2026-09-09T09:00,51229045,HÔPITAL DU HAUT-RICHELIEU,16,Montérégie,hopital-du-haut-richelieu,111,34,81
+2026-09-09T09:00,51229102,HÔTEL-DIEU DE SOREL,16,Montérégie,hotel-dieu-de-sorel,200,20,55
+2026-09-09T09:00,51229136,HÔPITAL DU SUROÎT,16,Montérégie,hopital-du-suroit,153,7,64
+2026-09-09T09:00,51229151,HÔPITAL ANNA-LABERGE,16,Montérégie,hopital-anna-laberge,134,10,52
+2026-09-09T09:00,51229185,HÔPITAL BROME-MISSISQUOI-PERKINS,05,Estrie,hopital-brome-missisquoi-perkins,138,22,42
+2026-09-09T09:00,51229193,HÔPITAL HONORÉ-MERCIER,16,Montérégie,hopital-honore-mercier,138,19,63
+2026-09-09T09:00,51232023,HÔPITAL ET CLSC DE SEPT-ÎLES,09,Côte-Nord,hopital-et-clsc-de-sept-iles,210,5,30
+2026-09-09T09:00,51232130,INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,03,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,100,5,29
+2026-09-09T09:00,51233583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-avellin-dalcourt,,,
+2026-09-09T09:00,51233799,HÔPITAL CHARLES-LE MOYNE,16,Montérégie,hopital-charles-le-moyne,140,41,118
+2026-09-09T09:00,51233914,HÔPITAL DE L'ENFANT-JÉSUS,03,Capitale-Nationale,hopital-de-l-enfant-jesus,123,6,81
+2026-09-09T09:00,51235190,HÔPITAL DOUGLAS,06,Montréal,hopital-douglas,113,0,9
+2026-09-09T09:00,51235307,INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,06,Montréal,institut-universitaire-en-sante-mentale-de-montreal,75,1,10
+2026-09-09T09:00,51235919,HÔPITAL SANTA CABRINI,06,Montréal,hopital-santa-cabrini,145,11,65
+2026-09-09T09:00,51236156,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,01,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,0,1,2
+2026-09-09T09:00,51236297,CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,06,Montréal,centre-hospitalier-de-l-universite-de-montreal,173,42,144
+2026-09-09T09:00,51236313,HÔPITAL NOTRE-DAME,06,Montréal,hopital-notre-dame,140,9,66
+2026-09-09T09:00,51244804,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,13,3,6
+2026-09-09T09:00,51244945,HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,14,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,160,13,94
+2026-09-09T09:00,51245058,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,07,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,0,4,4
+2026-09-09T09:00,51245108,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,0,4,4
+2026-09-09T09:00,51245116,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,50,5,8
+2026-09-09T09:00,51245132,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,60,6,10
+2026-09-09T09:00,51245140,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,09,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,0,1,1
+2026-09-09T09:00,51245199,CHSLD ET HÔPITAL PAUL-GILBERT,12,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,,7,12
+2026-09-09T09:00,51245223,HÔPITAL DE MONTMAGNY,12,Chaudière-Appalaches,hopital-de-montmagny,120,12,28
+2026-09-09T09:00,51245231,HÔPITAL DE THETFORD,12,Chaudière-Appalaches,hopital-de-thetford,67,5,26
+2026-09-09T09:00,51245306,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,63,9,17
+2026-09-09T09:00,51246338,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI,04,Mauricie et Centre-du-Québec,centre-multiservices-de-sante-et-de-services-sociaux-christ-roi,,,
+2026-09-09T09:00,51246874,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,15,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,144,9,40
+2026-09-09T09:00,51247302,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,71,2,7
+2026-09-09T09:00,51247344,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,03,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,67,6,9
+2026-09-09T09:00,51247476,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,0,2,3
+2026-09-09T09:00,51247542,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,0,4,5
+2026-09-09T09:00,51247559,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,08,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,80,7,14
+2026-09-09T09:00,51247583,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,29,7,10
+2026-09-09T09:00,51247617,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,05,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,0,13,18
+2026-09-09T09:00,51247732,CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,11,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,50,1,3
+2026-09-09T09:00,51247799,HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,11,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,83,9,17
+2026-09-09T09:00,51248201,INSTITUT DE CARDIOLOGIE DE MONTRÉAL,06,Montréal,institut-de-cardiologie-de-montreal,55,4,21
+2026-09-09T09:00,51248219,HÔPITAL GÉNÉRAL DE MONTRÉAL,06,Montréal,hopital-general-de-montreal,181,4,64
+2026-09-09T09:00,51248243,CENTRE HOSPITALIER DE ST. MARY,06,Montréal,centre-hospitalier-de-st-mary,159,17,61
+2026-09-09T09:00,51248250,HÔPITAL GÉNÉRAL JUIF,06,Montréal,hopital-general-juif,223,23,143
+2026-09-09T09:00,51848752,HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST,06,Montréal,hopital-en-sante-mentale-albert-prevost,,,
