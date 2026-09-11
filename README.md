@@ -8,7 +8,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 
 | File | Rows | Contents |
 |---|---|---|
-| [`data/er-hourly.csv`](data/er-hourly.csv) | 26,275 | one row per facility per hour |
+| [`data/er-hourly.csv`](data/er-hourly.csv) | 27,355 | one row per facility per hour |
 | [`data/facilities.csv`](data/facilities.csv) | 120 | name, establishment, region, street address, lat/lng |
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
