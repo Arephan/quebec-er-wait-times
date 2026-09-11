@@ -1,6 +1,6 @@
 # Quebec ER wait times — hourly archive
 
-Hourly emergency-room occupancy for all 120 acute-care emergency departments in Quebec, going back to 2026-09-02, plus a derived stretcher count for 98 of them.
+Hourly emergency-room occupancy for all 120 acute-care emergency departments in Quebec, going back to 2026-09-02, plus a derived stretcher count for 98 of them and average length of stay for 108 of them.
 
 Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occupancy as open data, refreshed once an hour. That feed only carries the current hour — once it refreshes, the previous reading is not available from it anymore. This repo stores the readings as they come in.
 
@@ -8,11 +8,12 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 
 | File | Rows | Contents |
 |---|---|---|
-| [`data/er-hourly.csv`](data/er-hourly.csv) | 25,915 | one row per facility per hour |
+| [`data/er-hourly.csv`](data/er-hourly.csv) | 26,275 | one row per facility per hour |
 | [`data/facilities.csv`](data/facilities.csv) | 120 | name, establishment, region, street address, lat/lng |
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
+| [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 
-`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 05:00, local Quebec time (America/Montreal).
+`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 08:00, local Quebec time (America/Montreal).
 
 ```
 ts_local, facility_id, facility_name, region_code, region_name, slug,
