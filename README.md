@@ -107,3 +107,37 @@ hours, which is what this archive does.
 `waiting` is the ministry's own count of people in the waiting room. Means are taken over
 every reading at that hour of the day in the window; a facility that reports irregularly
 will have fewer readings behind each hour, which `hours_covered` and `days_observed` expose.
+
+## `data/weekday-by-er.csv` — which day of the week each emergency room is busiest
+
+The ministry's feed carries no day-of-week view, and because it overwrites every hour there
+is no way to build one from the published page. This file is that view, computed from
+`data/er-hourly.csv` over the eight **complete** days in the archive, 2026-09-03 00:00 to
+2026-09-10 23:00 local time. The two partial edge days are excluded on purpose: 2026-09-02
+starts at 06:00 and 2026-09-11 ends at 17:00, and including them would bias Wednesday upward
+and Friday downward by the hours each one is missing.
+
+One row per facility, all 120, each with at least 20 hourly readings on every weekday:
+
+| Column | Meaning |
+|---|---|
+| `quietest_day` / `quietest_day_mean_present` | the weekday with the lowest mean count of people present |
+| `busiest_day` / `busiest_day_mean_present` | the weekday with the highest |
+| `swing_people` | busiest mean minus quietest mean, in people |
+| `mean_sunday` … `mean_saturday` | the mean for each weekday, so you can check the two above |
+
+There is no province-wide bad day. The **quietest** day clusters on the weekend — Saturday
+for 37 emergency rooms and Sunday for 35, 72 of 120 between them. The **busiest** day does
+not cluster at all: Tuesday at 26 facilities, Wednesday at 24, Sunday at 22, Monday 14,
+Thursday 13, Friday 12, Saturday 9. A rule of thumb picked up in one city is wrong in the
+next one.
+
+46 of the 120 swing 10 people or more between their quietest and busiest weekday; 21 swing
+under 3, which means the weekday is not worth planning around there. The largest swing in
+the province belongs to the Montreal Children's Hospital, and it runs backwards from the
+adult pattern: 83.5 people present on an average Sunday against 37.8 on an average Thursday.
+
+Eight days is one observation per weekday, two for Thursday. Treat this as a first cut whose
+method is reproducible rather than a settled seasonal profile — the window widens every hour
+the archive runs, and `mean_sunday` … `mean_saturday` are published so the ranking can be
+checked rather than taken on trust.
