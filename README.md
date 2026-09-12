@@ -256,3 +256,13 @@ table is needed to go from a row here to its widget.
 
 [sante.handled.tools/embed](https://sante.handled.tools/embed) builds the snippet for any of
 the 120 departments from a dropdown.
+
+### `data/hour-by-weekday-by-er.csv`
+
+Median stretcher occupancy and median waiting count for every **hour of the week** — 7 weekdays x 24 hours — at each of the 108 departments that publish a number. 18,133 rows. Columns: `facility_id, facility_name, region_name, slug, weekday, hour_local, n_readings, median_occupancy_pct, median_waiting`.
+
+`best-hour-by-er.csv` collapses the week into one 24-hour profile and `weekday-by-er.csv` collapses the day into seven numbers. This file is the cross-tab neither of them can show: a department whose Monday evening and Saturday evening look nothing alike is invisible in both.
+
+**Read `n_readings` before you use a cell.** The archive is roughly eleven days deep, so most cells rest on one or two observations and a few rest on none. Cells with `n_readings` of 1 are a single hour that happened, not a typical hour. The file gets steadier every hour the archive grows; it is published now because the shape is already usable at the region and day-part level, not because every cell is.
+
+Timestamps are America/Toronto local, matching the rest of the archive.
