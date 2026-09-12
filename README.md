@@ -8,15 +8,18 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 
 | File | Rows | Contents |
 |---|---|---|
-| [`data/er-hourly.csv`](data/er-hourly.csv) | 28,675 | one row per facility per hour |
+| [`data/er-hourly.csv`](data/er-hourly.csv) | 30,115 | one row per facility per hour |
 | [`data/facilities.csv`](data/facilities.csv) | 120 | name, establishment, region, street address, lat/lng |
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 | [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
 | [`data/coverage-by-er.csv`](data/coverage-by-er.csv) | 120 | how many of the 232 archived hours each department actually filled, and what it filled them with |
 | [`data/nearest-alternatives.csv`](data/nearest-alternatives.csv) | 600 | the five nearest other emergency rooms to each department, in kilometres, and whether each one publishes a number |
+| [`data/weekday-by-er.csv`](data/weekday-by-er.csv) | 120 | each department's occupancy and headcount averaged by day of the week |
+| [`data/best-hour-by-er.csv`](data/best-hour-by-er.csv) | 108 | the quietest hour of the day at each department, and how much quieter it is |
+| [`data/hour-by-weekday-by-er.csv`](data/hour-by-weekday-by-er.csv) | 18,133 | the full hour-of-week cross-tab: one row per department, weekday and hour |
 
-`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 21:00, local Quebec time (America/Montreal).
+`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-12 16:00, local Quebec time (America/Montreal).
 
 ```
 ts_local, facility_id, facility_name, region_code, region_name, slug,
