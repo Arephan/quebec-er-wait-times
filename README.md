@@ -8,12 +8,13 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 
 | File | Rows | Contents |
 |---|---|---|
-| [`data/er-hourly.csv`](data/er-hourly.csv) | 27,355 | one row per facility per hour |
+| [`data/er-hourly.csv`](data/er-hourly.csv) | 27,835 | one row per facility per hour |
 | [`data/facilities.csv`](data/facilities.csv) | 120 | name, establishment, region, street address, lat/lng |
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
+| [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
 
-`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 08:00, local Quebec time (America/Montreal).
+`er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 21:00, local Quebec time (America/Montreal).
 
 ```
 ts_local, facility_id, facility_name, region_code, region_name, slug,
@@ -141,3 +142,34 @@ Eight days is one observation per weekday, two for Thursday. Treat this as a fir
 method is reproducible rather than a settled seasonal profile — the window widens every hour
 the archive runs, and `mean_sunday` … `mean_saturday` are published so the ranking can be
 checked rather than taken on trust.
+
+## `data/gauge-reliability.csv` — does the published percentage track the crowd?
+
+Quebec publishes two numbers for every emergency room: a stretcher occupancy percentage and a count of people currently in the department. The percentage is the one that gets quoted, and for most people it is the only one they read. This table asks whether it earns that.
+
+Every pair of hours at one department where the headcount differs is scored once, over 2026-09-02 06:00 to 2026-09-11 21:00:
+
+- **agree** — the percentage is higher in the hour that really had more people in the room
+- **disagree** — the percentage is higher in the hour that had fewer
+- **blind** — the percentage is identical in both hours, so it cannot separate them
+
+```
+facility_id, facility_name, region_name, hours, distinct_published_values,
+smallest_step_pct, implied_stretchers, people_min, people_max,
+hour_pairs_scored, agree_pct, disagree_pct, blind_pct
+```
+
+Across the 107 departments that publish a percentage at all:
+
+- **97 of 107** point the wrong way on at least one hour pair in ten.
+- **16** agree less than half the time, which is worse than a coin toss on the question "which of these two hours was busier here".
+- **18** are blind on a quarter or more of their pairs.
+- **Two** — Radisson and Murdochville — published one single value for all 232 hours while the room went from 0 people to 3 and from 0 to 14.
+
+The clearest single case is **Hôpital Pierre-Le Gardeur** in Lanaudière, a fifty-stretcher department with a one-percent step, so resolution is not the problem. It disagrees on 48.6% of pairs and agrees on 46.8%. On 2 September at 07:00 it published **117% with 75 people in the department**. On 5 September at 18:00 it published **81% with 123 people**. The number read 36 points higher on the hour with 48 fewer people.
+
+The reason is in the denominator. The percentage counts occupied stretchers against funded stretchers; it says nothing about the people waiting in chairs, who are the larger half of most departments. The two numbers answer different questions and only one of them is on the front of the page.
+
+`smallest_step_pct` is the smallest gap between two distinct values the department has ever published, and `implied_stretchers` is 100 divided by it. Departments with a large step are coarse by construction: Isle-Dieu and René-Ricard can only publish 0% or 100%, so they are blind on 86% and 80% of their pairs respectively.
+
+Rebuild it with `python3 scripts/gauge_reliability.py`.
