@@ -13,6 +13,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 | [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
+| [`data/coverage-by-er.csv`](data/coverage-by-er.csv) | 120 | how many of the 232 archived hours each department actually filled, and what it filled them with |
 
 `er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 21:00, local Quebec time (America/Montreal).
 
@@ -173,3 +174,27 @@ The reason is in the denominator. The percentage counts occupied stretchers agai
 `smallest_step_pct` is the smallest gap between two distinct values the department has ever published, and `implied_stretchers` is 100 divided by it. Departments with a large step are coarse by construction: Isle-Dieu and René-Ricard can only publish 0% or 100%, so they are blind on 86% and 80% of their pairs respectively.
 
 Rebuild it with `python3 scripts/gauge_reliability.py`.
+
+## `data/coverage-by-er.csv` — which departments are actually in this file
+
+Every table in this repository is built from `er-hourly.csv`, and `er-hourly.csv` has a row for all 120 emergency departments every hour whether or not Quebec put anything in it. That makes "120 departments" the wrong number to quote for almost any question. This table is the metadata to read before the data: for each department, how many of the 232 archived hours carry an occupancy percentage, how many carry a waiting count, how many carry a headcount, and the longest unbroken run of hours with nothing.
+
+```
+facility_id, facility_name, region, archive_hours,
+hours_with_occupancy_pct, hours_with_waiting, hours_with_present,
+coverage_pct, longest_gap_hours, first_reading, last_reading
+```
+
+Over 2026-09-02 06:00 to 2026-09-11 21:00, 232 hours:
+
+- **107 departments publish an occupancy percentage.** 90 of them filled all 232 hours. 17 missed exactly one hour, never more.
+- **108 publish a waiting count and a headcount** — one more than publish a percentage.
+- **13 never published a percentage at all**, not once in 232 hours.
+
+Those 13 are not one failure but two. **Twelve are silent on all three columns**: Sacré-Coeur, Fleury, Jean-Talon and Albert-Prévost in Montreal, and eight departments across Mauricie–Centre-du-Québec including Sainte-Croix, Hôtel-Dieu d'Arthabaska and Hôpital du Centre-de-la-Mauricie. Four Montreal emergency rooms and an entire region's worth publish no hourly number of any kind.
+
+The thirteenth is different. **CHSLD et Hôpital Paul-Gilbert** in Chaudière-Appalaches published a waiting count and a headcount in all 232 hours and a percentage in none of them — at 21:00 on 11 September, 12 people waiting and 17 in the department, and an empty gauge. It is the one department where the data exists to compute the number and the number is withheld. Calling it "dark" is wrong; it is dark on one column.
+
+The practical use is as a denominator check. A claim about "Quebec's emergency rooms" built on the percentage column is a claim about 107 departments, not 120, and it is missing four hospitals on the island of Montreal.
+
+Rebuild it from `er-hourly.csv`; it needs no other input.
