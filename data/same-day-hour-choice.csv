@@ -1,0 +1,109 @@
+facility,region,slug,decisions,no_difference_pct,better_pct_when_it_mattered,median_people_fewer,mean_people_fewer
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,209,41.6,84.4,6.0,5.13
+CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION,Outaouais,clsc-et-centre-d-hebergement-de-la-petite-nation,209,67.0,72.5,3,2.38
+HÔPITAL GÉNÉRAL JUIF,Montréal,hopital-general-juif,207,13.0,71.1,5.0,6.58
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE,Gaspésie-Îles-de-la-Madeleine,centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,209,56.9,71.1,1.0,0.93
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,209,43.5,67.8,1.0,1.34
+CENTRE DE SANTÉ RENÉ-RICARD,Nord-du-Québec,centre-de-sante-rene-ricard,209,73.7,67.3,1,0.4
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT,Outaouais,centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,209,43.1,66.4,1,0.5
+CHSLD ET HÔPITAL PAUL-GILBERT,Chaudière-Appalaches,chsld-et-hopital-paul-gilbert,209,34.4,65.0,4,5.48
+HÔTEL-DIEU DE LÉVIS,Chaudière-Appalaches,hotel-dieu-de-levis,209,8.6,64.9,3,2.94
+HÔPITAL DE THETFORD,Chaudière-Appalaches,hopital-de-thetford,208,12.0,63.4,2,1.99
+HÔPITAL DE MONTMAGNY,Chaudière-Appalaches,hopital-de-montmagny,209,16.3,63.4,1,1.67
+HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL,Montérégie,hopital-barrie-memorial-barrie-memorial-hospital,209,12.4,62.8,2,2.61
+HÔPITAL PIERRE-LE GARDEUR,Lanaudière,hopital-pierre-le-gardeur,206,5.3,62.6,3,3.38
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-chauveau,209,39.7,61.9,4.0,7.94
+HÔPITAL DE L'ENFANT-JÉSUS,Capitale-Nationale,hopital-de-l-enfant-jesus,209,2.4,61.8,1.0,2.06
+HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS,Gaspésie-Îles-de-la-Madeleine,hopital-et-clsc-de-sainte-anne-des-monts,209,31.6,61.5,1,0.73
+CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE,Bas-Saint-Laurent,centre-hospitalier-regional-du-grand-portage,209,15.8,61.4,1.0,1.19
+HÔPITAL ET CLSC DE SEPT-ÎLES,Côte-Nord,hopital-et-clsc-de-sept-iles,209,10.5,61.0,2,1.37
+HÔPITAL DE CHICOUTIMI,Saguenay-Lac-Saint-Jean,hopital-de-chicoutimi,208,6.7,60.8,2.0,2.27
+HÔPITAL ANNA-LABERGE,Montérégie,hopital-anna-laberge,205,4.9,60.5,2,1.54
+HÔPITAL DE MANIWAKI,Outaouais,hopital-de-maniwaki,209,26.3,60.4,1.0,1.26
+HÔTEL-DIEU DE SOREL,Montérégie,hotel-dieu-de-sorel,209,9.6,60.3,1,1.05
+HÔPITAL DE NOTRE-DAME-DU-LAC,Bas-Saint-Laurent,hopital-de-notre-dame-du-lac,209,37.3,60.3,1,0.92
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,209,40.2,60.0,1,1.43
+HÔPITAL DE SAINT-GEORGES,Chaudière-Appalaches,hopital-de-saint-georges,209,9.6,59.8,1,1.01
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,209,11.0,59.1,1.0,1.18
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,209,34.4,59.1,1,1.04
+CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-paspebiac,209,36.8,59.1,1.0,0.86
+HÔPITAL DU SAINT-SACREMENT,Capitale-Nationale,hopital-du-saint-sacrement,209,8.6,58.6,2,1.38
+HÔPITAL DE VAL-D'OR,Abitibi-Témiscamingue,hopital-de-val-d-or,209,14.8,58.4,1.0,0.91
+HÔPITAL SAINT-FRANÇOIS D'ASSISE,Capitale-Nationale,hopital-saint-francois-d-assise,209,12.0,58.2,1.0,1.78
+HÔPITAL RÉGIONAL DE RIMOUSKI,Bas-Saint-Laurent,hopital-regional-de-rimouski,209,12.9,58.2,1.0,0.6
+HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE,Saguenay-Lac-Saint-Jean,hopital-et-centre-de-readaptation-de-jonquiere,209,13.9,57.8,1.0,1.11
+HÔPITAL ET CLSC DE LA MALBAIE,Capitale-Nationale,hopital-et-clsc-de-la-malbaie,209,34.4,57.7,1,0.24
+HÔPITAL DOUGLAS,Montréal,hopital-douglas,209,53.6,57.7,1,0.79
+HÔPITAL GÉNÉRAL DE MONTRÉAL,Montréal,hopital-general-de-montreal,209,8.6,57.6,1,0.71
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,209,24.4,57.6,1.0,0.87
+HÔPITAL DE HULL,Outaouais,hopital-de-hull,208,13.5,56.7,1.0,1.42
+HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL,Saguenay-Lac-Saint-Jean,hopital-et-centre-d-hebergement-de-roberval,209,18.2,56.7,1,0.55
+HÔPITAL SANTA CABRINI,Montréal,hopital-santa-cabrini,208,8.2,56.5,1,1.45
+HÔPITAL DE DOLBEAU-MISTASSINI,Saguenay-Lac-Saint-Jean,hopital-de-dolbeau-mistassini,209,18.7,56.5,1.0,0.62
+INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC,Capitale-Nationale,institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,209,9.1,56.3,1.0,1.48
+HÔPITAL DE MATANE,Bas-Saint-Laurent,hopital-de-matane,209,19.6,56.0,1.0,0.6
+CHUS - HÔPITAL FLEURIMONT,Estrie,chus-hopital-fleurimont,209,15.3,55.9,1,1.11
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,209,79.4,55.8,1,0.09
+CENTRE DE SANTÉ DE CHIBOUGAMAU,Nord-du-Québec,centre-de-sante-de-chibougamau,209,40.7,55.6,1.0,0.53
+L'HÔTEL-DIEU DE QUÉBEC,Capitale-Nationale,l-hotel-dieu-de-quebec,209,13.4,55.2,1,0.5
+L'HÔPITAL DE MONTRÉAL POUR ENFANTS,Montréal,l-hopital-de-montreal-pour-enfants,209,3.3,55.0,1.0,1.75
+HÔPITAL DE CHANDLER,Gaspésie-Îles-de-la-Madeleine,hopital-de-chandler,209,30.1,54.8,1.0,0.84
+CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL,Capitale-Nationale,centre-hospitalier-de-l-universite-laval,209,8.1,54.7,1.0,1.56
+HÔPITAL D'AMQUI,Bas-Saint-Laurent,hopital-d-amqui,209,32.5,54.6,1,0.48
+HÔPITAL PIERRE-BOUCHER,Montérégie,hopital-pierre-boucher,209,6.7,54.4,1,1.6
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,209,18.2,54.4,1,1.35
+HÔPITAL DE L'ARCHIPEL,Gaspésie-Îles-de-la-Madeleine,hopital-de-l-archipel,209,40.2,54.4,1,0.22
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,209,10.0,54.3,1.0,0.66
+INSTITUT DE CARDIOLOGIE DE MONTRÉAL,Montréal,institut-de-cardiologie-de-montreal,209,21.5,54.3,1.0,0.36
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES,Bas-Saint-Laurent,centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,208,44.2,54.3,1.0,0.36
+HÔPITAL DE LACHINE,Montréal,hopital-de-lachine,209,15.3,54.2,1,0.21
+HÔPITAL DE LASALLE,Montréal,hopital-de-lasalle,209,11.5,54.1,1,1.11
+CLSC ET HÔPITAL LE ROYER,Côte-Nord,clsc-et-hopital-le-royer,209,17.2,53.8,1,0.64
+HÔPITAL DU SUROÎT,Montérégie,hopital-du-suroit,209,10.0,53.7,1.0,1.03
+HÔPITAL ROYAL VICTORIA,Montréal,hopital-royal-victoria,209,7.2,53.6,1.0,1.58
+HÔPITAL BROME-MISSISQUOI-PERKINS,Estrie,hopital-brome-missisquoi-perkins,209,4.3,53.5,1.0,1.16
+CHU SAINTE-JUSTINE,Montréal,chu-sainte-justine,208,8.2,53.4,1,2.17
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL,Laurentides,centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,209,12.0,53.3,1.0,0.43
+HÔPITAL DE LA BAIE,Saguenay-Lac-Saint-Jean,hopital-de-la-baie,209,12.9,52.7,1.0,0.54
+HÔPITAL DE MONT-LAURIER,Laurentides,hopital-de-mont-laurier,209,16.3,52.6,1,0.6
+HÔPITAL DE GATINEAU,Outaouais,hopital-de-gatineau,208,10.6,52.2,1.0,0.87
+HÔPITAL D'AMOS,Abitibi-Témiscamingue,hopital-d-amos,209,14.8,52.2,1.0,0.27
+CHUS - HÔTEL-DIEU DE SHERBROOKE,Estrie,chus-hotel-dieu-de-sherbrooke,209,10.0,52.1,1.0,0.07
+INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL,Montréal,institut-universitaire-en-sante-mentale-de-montreal,209,64.1,52.0,1,0.2
+HÔPITAL DE VERDUN,Montréal,hopital-de-verdun,209,12.4,51.9,1,0.34
+CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE,Gaspésie-Îles-de-la-Madeleine,clsc-et-centre-de-services-ambulatoires-de-murdochville,209,75.1,51.9,1.0,1.02
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-du-granit,209,16.7,51.7,1.0,1.02
+HÔPITAL GÉNÉRAL DU LAKESHORE,Montréal,hopital-general-du-lakeshore,208,6.7,51.5,1.0,1.09
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,209,17.2,51.4,1,0.1
+HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND,Lanaudière,hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,209,6.7,51.3,1,1.56
+HÔPITAL ET CHSLD DU PONTIAC,Outaouais,hopital-et-chsld-du-pontiac,209,25.4,51.3,1.0,0.43
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,209,33.5,51.1,1,0.29
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,209,30.1,50.7,1.0,0.66
+HÔPITAL NOTRE-DAME-DE-FATIMA,Bas-Saint-Laurent,hopital-notre-dame-de-fatima,209,24.4,50.6,1.0,-0.03
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES,Estrie,centre-multiservices-de-sante-et-de-services-sociaux-des-sources,209,19.1,50.3,1,0.7
+HÔPITAL DE GRANBY,Estrie,hopital-de-granby,209,7.2,50.0,0.0,1.51
+CENTRE DE SANTÉ ISLE-DIEU,Nord-du-Québec,centre-de-sante-isle-dieu,209,83.7,50.0,0.0,0.18
+CENTRE DE SANTÉ DE RADISSON,Nord-du-Québec,centre-de-sante-de-radisson,209,99.0,50.0,0.0,0
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE,Abitibi-Témiscamingue,centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,209,26.8,49.7,-1,0
+HÔPITAL DU HAUT-RICHELIEU,Montérégie,hopital-du-haut-richelieu,209,7.2,49.5,-1.0,0.38
+CLSC DE POHÉNÉGAMOOK,Bas-Saint-Laurent,clsc-de-pohenegamook,209,49.8,49.5,-1,0.2
+HÔPITAL HONORÉ-MERCIER,Montérégie,hopital-honore-mercier,208,9.1,49.2,-1,1.69
+HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL,Outaouais,hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,209,18.2,49.1,-1,0.6
+HÔPITAL DE GASPÉ,Gaspésie-Îles-de-la-Madeleine,hopital-de-gaspe,209,21.1,49.1,-1,-0.15
+CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL,Montréal,centre-hospitalier-de-l-universite-de-montreal,208,4.8,49.0,-1.0,-0.16
+HÔPITAL NOTRE-DAME,Montréal,hopital-notre-dame,208,9.6,48.9,-1.0,0.75
+HÔPITAL DE LA CITÉ-DE-LA-SANTÉ,Laval,hopital-de-la-cite-de-la-sante,208,7.2,48.7,-1,1.66
+HÔPITAL MAISONNEUVE-ROSEMONT,Montréal,hopital-maisonneuve-rosemont,208,4.8,48.5,-1.0,1.47
+HÔPITAL ET CHSLD DE PAPINEAU,Outaouais,hopital-et-chsld-de-papineau,209,18.2,48.5,-1,0.61
+CENTRE HOSPITALIER DE ST. MARY,Montréal,centre-hospitalier-de-st-mary,209,12.0,48.4,-1.0,-0.14
+HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA,Gaspésie-Îles-de-la-Madeleine,hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,209,20.6,48.2,-1.0,0.33
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ,Capitale-Nationale,centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,209,28.2,48.0,-1.0,0.45
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,209,45.5,47.4,-1.0,0.1
+HÔPITAL DE SAINT-JÉRÔME,Laurentides,hopital-de-saint-jerome,209,7.2,46.9,-1.0,-0.24
+HÔPITAL CHARLES-LE MOYNE,Montérégie,hopital-charles-le-moyne,206,7.3,46.1,-1,1.35
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,209,82.3,45.9,-1,-0.08
+HÔPITAL DE ROUYN-NORANDA,Abitibi-Témiscamingue,hopital-de-rouyn-noranda,209,12.0,45.1,-1.0,0.45
+HÔPITAL DE SAINT-EUSTACHE,Laurentides,hopital-de-saint-eustache,209,6.7,44.6,-1,0.69
+HÔPITAL D'ALMA,Saguenay-Lac-Saint-Jean,hopital-d-alma,209,9.1,43.2,-1.0,0.03
+CENTRE DE SANTÉ LEBEL,Nord-du-Québec,centre-de-sante-lebel,209,65.6,41.7,-1.0,-0.22
+CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT,Côte-Nord,centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,209,45.5,38.6,-1.0,-0.12

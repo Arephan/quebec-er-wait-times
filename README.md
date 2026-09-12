@@ -11,6 +11,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 | [`data/er-hourly.csv`](data/er-hourly.csv) | 30,115 | one row per facility per hour |
 | [`data/facilities.csv`](data/facilities.csv) | 120 | name, establishment, region, street address, lat/lng |
 | [`data/stretcher-capacity.csv`](data/stretcher-capacity.csv) | 98 | stretcher count behind each department's published percentage, derived |
+| [`data/same-day-hour-choice.csv`](data/same-day-hour-choice.csv) | 108 | whether waiting for a quieter hour helps, per facility, derived |
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 | [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
 | [`data/coverage-by-er.csv`](data/coverage-by-er.csv) | 120 | how many of the 232 archived hours each department actually filled, and what it filled them with |
@@ -269,3 +270,38 @@ Median stretcher occupancy and median waiting count for every **hour of the week
 **Read `n_readings` before you use a cell.** The archive is roughly eleven days deep, so most cells rest on one or two observations and a few rest on none. Cells with `n_readings` of 1 are a single hour that happened, not a typical hour. The file gets steadier every hour the archive grows; it is published now because the shape is already usable at the region and day-part level, not because every cell is.
 
 Timestamps are America/Toronto local, matching the rest of the archive.
+
+## Does the hour you leave change what you walk into?
+
+The live ministry page answers one question: how full is this emergency room right
+now. A reasonable objection to keeping an hourly history is that nobody plans an ER
+visit in advance — the trip is decided the same day — so a weekly pattern is of no
+practical use.
+
+That objection can be tested against the archive, and `data/same-day-hour-choice.csv`
+is the test. For every facility, day and hour in the window, take the hour in the
+following six with the lowest historical median queue for that facility, and compare
+the queue actually observed then against the queue at the moment of the decision. The
+historical median leaves the day being tested out, so the choice never sees its own
+answer. Nothing here looks further ahead than the same afternoon.
+
+Over 22,547 decision points at 108 emergency rooms:
+
+| | |
+|---|---|
+| the hour made no difference at all | 23.8% of decisions |
+| waiting for the quieter hour left a shorter queue | 55.0% of the decisions where it made any difference |
+| how much shorter, typically | 1 person |
+
+So the effect is real and it is small. At 75 of the 97 facilities where the hour
+changes anything, the quieter hour is the better bet more often than not; at the
+remaining 22 it is not, and going immediately is as good a choice as any. Where it is
+worth something it is worth a lot: the median at Hôpital général juif is 5 people
+fewer in the queue, and at the Coaticook MRC service centre 6.
+
+A caveat the numbers do not carry on their own: this is ten days of one September, and
+a queue that is one person shorter is not a reason to delay care for anyone who needs
+it now.
+
+`scripts/same-day-hour-choice.py` reproduces the file from `data/er-hourly.csv` with
+no dependencies beyond the standard library.
