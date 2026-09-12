@@ -14,6 +14,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 | [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
 | [`data/coverage-by-er.csv`](data/coverage-by-er.csv) | 120 | how many of the 232 archived hours each department actually filled, and what it filled them with |
+| [`data/nearest-alternatives.csv`](data/nearest-alternatives.csv) | 600 | the five nearest other emergency rooms to each department, in kilometres, and whether each one publishes a number |
 
 `er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-11 21:00, local Quebec time (America/Montreal).
 
@@ -198,3 +199,36 @@ The thirteenth is different. **CHSLD et Hôpital Paul-Gilbert** in Chaudière-Ap
 The practical use is as a denominator check. A claim about "Quebec's emergency rooms" built on the percentage column is a claim about 107 departments, not 120, and it is missing four hospitals on the island of Montreal.
 
 Rebuild it from `er-hourly.csv`; it needs no other input.
+
+## `data/nearest-alternatives.csv` — what else is within reach, and whether it reports
+
+The occupancy feed has no geography in it. It says how full a department is; it does not say
+what the next department is or how far away. So the question a person actually has — the room
+I was sent to is full, where else can I go — cannot be answered from the ministry's files alone.
+
+This table joins the street addresses in `facilities.csv` to the occupancy record and lists,
+for each of the 120 departments, the five nearest other emergency rooms: great-circle distance
+in kilometres, whether the alternative sits in a different health region, and how many of the
+archived hours that alternative has actually published an occupancy number for.
+
+```
+facility_id, facility_name, region_name, rank, alt_facility_id, alt_facility_name,
+alt_region_name, distance_km, crosses_region, alt_coverage_pct, alt_hours_with_occupancy_pct
+```
+
+Three things fall out of it.
+
+**65 of the 600 neighbour entries never publish an occupancy number at all.** They are in the
+feed as facilities and they are the nearest alternative to somebody, but the column that would
+tell you whether to drive there is empty in every archived hour.
+
+**One department's five nearest alternatives are all dark.** Pavillon Sainte-Marie's closest
+five — at 14.5, 23.5, 30.2, 43.4 and 53.2 km — have published nothing in the window. Anyone
+leaving that waiting room is choosing blind for the next 53 kilometres.
+
+**For 26 of the 120 departments, the nearest alternative is in a different health region.**
+Regional dashboards are the usual way this data is presented, which means for roughly one
+department in five the closest option is on a page the person is not looking at.
+
+Distances are straight-line, not driving distance, and they are computed from the published
+street address of each installation. Treat them as a sort order, not as a travel estimate.
