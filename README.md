@@ -81,3 +81,29 @@ GET https://sante.handled.tools/api/now
 The data comes from the MSSS Console des urgences open-data release and is republished here under the licence of the original dataset. Cite the MSSS as the source. The mirror and this archive are maintained alongside [sante.handled.tools](https://sante.handled.tools/donnees), which publishes the same numbers as pages per hospital, city and region. Code in `scripts/` is MIT.
 
 Not a ministry project, and not endorsed by one. Not medical advice. In an emergency, call 911.
+
+## `data/best-hour-by-er.csv` — the quietest hour at each emergency room
+
+Québec publishes each ER's waiting count every hour and overwrites the previous reading,
+so the hour-of-day profile of an emergency room is not published anywhere. This file is
+that profile, computed from `data/er-hourly.csv`.
+
+One row per facility with at least 12 distinct hours of the day observed (108 of them),
+covering 2026-09-02 06:00 to 2026-09-11 17:00 local time:
+
+| Column | Meaning |
+|---|---|
+| `days_observed` | distinct calendar days the facility reported |
+| `hours_covered` | distinct hours of the day with at least one reading |
+| `best_hour` / `best_hour_mean_waiting` | the hour of day with the lowest mean waiting count |
+| `worst_hour` / `worst_hour_mean_waiting` | the hour of day with the highest mean waiting count |
+| `swing` | worst mean minus best mean, in people |
+| `usable` | `yes` when the swing is 5 people or more |
+
+91 of the 108 have a swing of 5 people or more. The other 17 do not have a clock worth
+planning around, and that is a finding too — it can only be established by keeping the
+hours, which is what this archive does.
+
+`waiting` is the ministry's own count of people in the waiting room. Means are taken over
+every reading at that hour of the day in the window; a facility that reports irregularly
+will have fewer readings behind each hour, which `hours_covered` and `days_observed` expose.
