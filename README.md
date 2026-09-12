@@ -232,3 +232,27 @@ department in five the closest option is on a page the person is not looking at.
 
 Distances are straight-line, not driving distance, and they are computed from the published
 street address of each installation. Treat them as a sort order, not as a travel estimate.
+
+## Embedding the current hour on your own page
+
+These files hold past hours. The current hour for a single department is available as a
+standalone card sized for an iframe:
+
+```html
+<iframe src="https://sante.handled.tools/embed/hopital-de-matane"
+        width="100%" height="160" style="border:0" loading="lazy"
+        title="Hôpital de Matane — occupation des civières"></iframe>
+```
+
+The path segment is the `slug` column of `er-hourly.csv` and `facilities.csv`, so no lookup
+table is needed to go from a row here to its widget.
+
+- `/embed/<slug>` is French, `/en/embed/<slug>` is English.
+- `?theme=light`, `?theme=dark`, or leave it off, in which case it follows the reader's OS
+  setting.
+- The card shows stretcher occupancy, people present, people waiting, and the time of the
+  reading, off the same MSSS hourly feed this archive stores.
+- There is no API key and no script tag. The iframe does not read the page it sits in.
+
+[sante.handled.tools/embed](https://sante.handled.tools/embed) builds the snippet for any of
+the 120 departments from a dropdown.
