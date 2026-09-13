@@ -15,6 +15,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 | [`data/length-of-stay.csv`](data/length-of-stay.csv) | 120 | average length of stay per department, stretcher and non-stretcher, hours |
 | [`data/gauge-reliability.csv`](data/gauge-reliability.csv) | 107 | how often each department's published percentage agrees with the headcount beside it |
 | [`data/coverage-by-er.csv`](data/coverage-by-er.csv) | 120 | how many of the 232 archived hours each department actually filled, and what it filled them with |
+| [`data/overflow-episodes.csv`](data/overflow-episodes.csv) | 107 | how long a department stays above 100% stretcher occupancy once it gets there: episode count, median/longest spell, recovery time |
 | [`data/nearest-alternatives.csv`](data/nearest-alternatives.csv) | 600 | the five nearest other emergency rooms to each department, in kilometres, and whether each one publishes a number |
 | [`data/weekday-by-er.csv`](data/weekday-by-er.csv) | 120 | each department's occupancy and headcount averaged by day of the week |
 | [`data/best-hour-by-er.csv`](data/best-hour-by-er.csv) | 108 | the quietest hour of the day at each department, and how much quieter it is |
@@ -305,3 +306,42 @@ it now.
 
 `scripts/same-day-hour-choice.py` reproduces the file from `data/er-hourly.csv` with
 no dependencies beyond the standard library.
+## `data/overflow-episodes.csv` — how long an over-100% spell actually lasts, per department
+
+The ministry publishes a stretcher-occupancy percentage for right now. It does not publish how long
+a department stays above 100% once it gets there, because that needs a history and the ministry's
+page keeps none. This file cuts the archive into **episodes**: a run of consecutive hourly readings
+in which `stretcher_occupancy_pct` is strictly above 100, for each of the 107 departments that
+publish an occupancy figure at all.
+
+One row per department. Columns:
+
+| Column | Meaning |
+|---|---|
+| `hours_observed` | hourly readings with a non-blank occupancy value (248–252 across the file) |
+| `hours_over_100` / `share_hours_over_100_pct` | how much of that time the department was over 100% |
+| `episodes_over_100` | number of distinct spells above 100% |
+| `median_episode_hours` / `mean_episode_hours` / `longest_episode_hours` | the length of those spells |
+| `episodes_ending_within_archive` | spells that actually came back down before the archive ended |
+| `median_hours_to_recover` | median length of *those* spells — the ones we watched end |
+
+### What is in it
+
+- **90 of the 107 departments went over 100% at least once.** 17 never did.
+- **Eight departments were above 100% in every single hour of the archive** — 248 to 252
+  consecutive readings each, no gap: Hôpital de la Cité-de-la-Santé (Laval), Hôpital de Saint-Eustache (Laurentides), Hôpital du Suroît (Montérégie), Hôpital et CLSC de Sept-Îles (Côte-Nord), Hôpital général de Montréal, Hôpital général du Lakeshore, Hôpital général juif et Hôpital Royal Victoria (all four Montréal).
+  For these, `median_hours_to_recover` is blank on purpose: nothing recovered, so
+  there is no recovery to take a median of. A snapshot of any one of those hours tells a reader the
+  department is full; only the history tells them it has not been anything else for ten days.
+- At the other end, some departments cross 100% often and clear fast: CHUS – Hôpital Fleurimont has
+  11 separate spells with a median length of **1 hour**, and Hôpital de Saint-Georges 10 spells with
+  a median of **1.5 hours**. Two departments can show the same number at the same moment and mean
+  completely different things about the next few hours.
+- Across all departments with at least one spell, the median of the per-department median spell
+  length is **4 hours**.
+
+### Caveat
+
+The archive is 252 hours long. A spell running at the first or last reading is counted at the
+length we can see, which is a floor, not the true length — that is what
+`episodes_ending_within_archive` is for.

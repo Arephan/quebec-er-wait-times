@@ -1,0 +1,108 @@
+facility_id,facility_name,region,slug,hours_observed,hours_over_100,share_hours_over_100_pct,episodes_over_100,median_episode_hours,mean_episode_hours,longest_episode_hours,episodes_ending_within_archive,median_hours_to_recover
+51218501,"CENTRE DE SANTÉ DE CHIBOUGAMAU","Nord-du-Québec",centre-de-sante-de-chibougamau,252,61,24.2,14,3.5,4.4,12,14,3.5
+51218543,"CENTRE DE SANTÉ DE RADISSON","Nord-du-Québec",centre-de-sante-de-radisson,252,0,0.0,0,,,,0,
+51218535,"CENTRE DE SANTÉ ISLE-DIEU","Nord-du-Québec",centre-de-sante-isle-dieu,252,0,0.0,0,,,,0,
+51218527,"CENTRE DE SANTÉ LEBEL","Nord-du-Québec",centre-de-sante-lebel,252,0,0.0,0,,,,0,
+51218519,"CENTRE DE SANTÉ RENÉ-RICARD","Nord-du-Québec",centre-de-sante-rene-ricard,252,0,0.0,0,,,,0,
+51236297,"CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL","Montréal",centre-hospitalier-de-l-universite-de-montreal,251,232,92.4,6,40.5,38.7,71,5,21
+51217594,"CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL","Capitale-Nationale",centre-hospitalier-de-l-universite-laval,252,90,35.7,17,2,5.3,28,16,2.5
+51248243,"CENTRE HOSPITALIER DE ST. MARY","Montréal",centre-hospitalier-de-st-mary,252,221,87.7,12,16.5,18.4,64,12,16.5
+51218352,"CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE","Bas-Saint-Laurent",centre-hospitalier-regional-du-grand-portage,252,53,21.0,12,3,4.4,11,12,3
+51225001,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU","Capitale-Nationale",centre-multiservices-de-sante-et-de-services-sociaux-chauveau,252,0,0.0,0,,,,0,
+51245306,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL","Laurentides",centre-multiservices-de-sante-et-de-services-sociaux-d-argenteuil,252,114,45.2,16,4.5,7.1,26,16,4.5
+51244804,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL","Capitale-Nationale",centre-multiservices-de-sante-et-de-services-sociaux-de-baie-saint-paul,252,0,0.0,0,,,,0,
+51245108,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-de-fermont,252,0,0.0,0,,,,0,
+51218741,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-de-forestville,252,0,0.0,0,,,,0,
+51247732,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE","Gaspésie-Îles-de-la-Madeleine",centre-multiservices-de-sante-et-de-services-sociaux-de-grande-vallee,252,1,0.4,1,1,1.0,1,1,1
+51245140,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-de-la-basse-cote-nord,252,0,0.0,0,,,,0,
+51245116,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-de-la-minganie,252,53,21.0,7,4,7.6,22,7,4
+51247617,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK","Estrie",centre-multiservices-de-sante-et-de-services-sociaux-de-la-mrc-de-coaticook,252,3,1.2,2,1.5,1.5,2,2,1.5
+51247559,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE","Abitibi-Témiscamingue",centre-multiservices-de-sante-et-de-services-sociaux-de-la-sarre,252,19,7.5,9,2,2.1,3,9,2
+51245058,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MANSFIELD-ET-PONTEFRACT","Outaouais",centre-multiservices-de-sante-et-de-services-sociaux-de-mansfield-et-pontefract,252,1,0.4,1,1,1.0,1,1,1
+51219046,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG","Estrie",centre-multiservices-de-sante-et-de-services-sociaux-de-memphremagog,252,90,35.7,19,2,4.7,23,19,2
+51245132,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-de-port-cartier,252,35,13.9,6,4.5,5.8,15,6,4.5
+51217628,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE","Laurentides",centre-multiservices-de-sante-et-de-services-sociaux-de-riviere-rouge,252,103,40.9,12,4,8.6,33,12,4
+51247344,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES","Capitale-Nationale",centre-multiservices-de-sante-et-de-services-sociaux-de-saint-marc-des-carrieres,252,33,13.1,7,3,4.7,15,7,3
+51247302,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND","Capitale-Nationale",centre-multiservices-de-sante-et-de-services-sociaux-de-saint-raymond,252,22,8.7,7,3,3.1,5,7,3
+51246874,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE","Laurentides",centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-agathe,251,189,75.3,13,8,14.5,67,12,9
+51225357,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ","Capitale-Nationale",centre-multiservices-de-sante-et-de-services-sociaux-de-sainte-anne-de-beaupre,252,2,0.8,2,1,1.0,1,2,1
+51247476,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA","Abitibi-Témiscamingue",centre-multiservices-de-sante-et-de-services-sociaux-de-temiscaming-kipawa,252,1,0.4,1,1,1.0,1,1,1
+51236156,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES","Bas-Saint-Laurent",centre-multiservices-de-sante-et-de-services-sociaux-de-trois-pistoles,251,0,0.0,0,,,,0,
+51247542,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE","Abitibi-Témiscamingue",centre-multiservices-de-sante-et-de-services-sociaux-de-ville-marie,252,5,2.0,2,2.5,2.5,3,2,2.5
+51218733,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS","Côte-Nord",centre-multiservices-de-sante-et-de-services-sociaux-des-escoumins,252,1,0.4,1,1,1.0,1,1,1
+51247583,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES","Estrie",centre-multiservices-de-sante-et-de-services-sociaux-des-sources,252,0,0.0,0,,,,0,
+51223832,"CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT","Estrie",centre-multiservices-de-sante-et-de-services-sociaux-du-granit,252,16,6.3,7,2,2.3,4,7,2
+51222800,"CHU SAINTE-JUSTINE","Montréal",chu-sainte-justine,251,133,53.0,20,6,6.7,18,19,6
+51216687,"CHUS - HÔPITAL FLEURIMONT","Estrie",chus-hopital-fleurimont,252,35,13.9,11,1,3.2,8,11,1
+51216695,"CHUS - HÔTEL-DIEU DE SHERBROOKE","Estrie",chus-hotel-dieu-de-sherbrooke,252,217,86.1,3,57,72.3,149,2,34
+51219418,"CLSC DE POHÉNÉGAMOOK","Bas-Saint-Laurent",clsc-de-pohenegamook,252,0,0.0,0,,,,0,
+51219491,"CLSC ET CENTRE D'HÉBERGEMENT DE LA PETITE-NATION","Outaouais",clsc-et-centre-d-hebergement-de-la-petite-nation,252,2,0.8,2,1,1.0,1,2,1
+51221307,"CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE","Gaspésie-Îles-de-la-Madeleine",clsc-et-centre-de-services-ambulatoires-de-murdochville,252,0,0.0,0,,,,0,
+51220978,"CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC","Gaspésie-Îles-de-la-Madeleine",clsc-et-centre-de-services-ambulatoires-de-paspebiac,252,9,3.6,5,1,1.8,4,5,1
+51228765,"CLSC ET HÔPITAL LE ROYER","Côte-Nord",clsc-et-hopital-le-royer,252,23,9.1,8,2.5,2.9,5,7,1
+51229151,"HÔPITAL ANNA-LABERGE","Montérégie",hopital-anna-laberge,248,223,89.9,7,3,31.9,115,7,3
+51228005,"HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL","Montérégie",hopital-barrie-memorial-barrie-memorial-hospital,252,99,39.3,9,5,11.0,33,9,5
+51229185,"HÔPITAL BROME-MISSISQUOI-PERKINS","Estrie",hopital-brome-missisquoi-perkins,252,142,56.3,17,4,8.4,42,16,5
+51233799,"HÔPITAL CHARLES-LE MOYNE","Montérégie",hopital-charles-le-moyne,249,201,80.7,11,15,18.3,86,11,15
+51219400,"HÔPITAL D'ALMA","Saguenay-Lac-Saint-Jean",hopital-d-alma,252,0,0.0,0,,,,0,
+51228906,"HÔPITAL D'AMOS","Abitibi-Témiscamingue",hopital-d-amos,252,141,56.0,20,5,7.0,36,19,6
+51226892,"HÔPITAL D'AMQUI","Bas-Saint-Laurent",hopital-d-amqui,252,6,2.4,3,2,2.0,2,2,2
+51227775,"HÔPITAL DE CHANDLER","Gaspésie-Îles-de-la-Madeleine",hopital-de-chandler,252,7,2.8,1,7,7.0,7,1,7
+51218394,"HÔPITAL DE CHICOUTIMI","Saguenay-Lac-Saint-Jean",hopital-de-chicoutimi,250,2,0.8,2,1,1.0,1,2,1
+51219384,"HÔPITAL DE DOLBEAU-MISTASSINI","Saguenay-Lac-Saint-Jean",hopital-de-dolbeau-mistassini,252,4,1.6,3,1,1.3,2,3,1
+51220903,"HÔPITAL DE GASPÉ","Gaspésie-Îles-de-la-Madeleine",hopital-de-gaspe,252,193,76.6,13,7,14.8,61,12,9
+51221703,"HÔPITAL DE GATINEAU","Outaouais",hopital-de-gatineau,251,206,82.1,4,12,51.5,178,4,12
+51228120,"HÔPITAL DE GRANBY","Estrie",hopital-de-granby,252,170,67.5,17,11,10.0,34,17,11
+51221711,"HÔPITAL DE HULL","Outaouais",hopital-de-hull,251,199,79.3,10,3.5,19.9,129,9,4
+51227783,"HÔPITAL DE L'ARCHIPEL","Gaspésie-Îles-de-la-Madeleine",hopital-de-l-archipel,252,2,0.8,1,2,2.0,2,1,2
+51233914,"HÔPITAL DE L'ENFANT-JÉSUS","Capitale-Nationale",hopital-de-l-enfant-jesus,252,167,66.3,17,3,9.8,44,16,4
+51221364,"HÔPITAL DE LA BAIE","Saguenay-Lac-Saint-Jean",hopital-de-la-baie,252,28,11.1,9,3,3.1,9,9,3
+51228757,"HÔPITAL DE LA CITÉ-DE-LA-SANTÉ","Laval",hopital-de-la-cite-de-la-sante,251,251,100.0,1,251,251.0,251,0,
+51228310,"HÔPITAL DE LACHINE","Montréal",hopital-de-lachine,252,193,76.6,11,15,17.5,49,10,13.5
+51244945,"HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND","Lanaudière",hopital-de-lanaudiere-et-centre-d-hebergement-parphilia-ferland,252,212,84.1,10,11,21.2,91,10,11
+51224392,"HÔPITAL DE LASALLE","Montréal",hopital-de-lasalle,252,170,67.5,12,2.5,14.2,65,11,2
+51221893,"HÔPITAL DE MANIWAKI","Outaouais",hopital-de-maniwaki,252,163,64.7,13,4,12.5,65,12,3
+51218980,"HÔPITAL DE MATANE","Bas-Saint-Laurent",hopital-de-matane,252,3,1.2,1,3,3.0,3,1,3
+51217610,"HÔPITAL DE MONT-LAURIER","Laurentides",hopital-de-mont-laurier,252,121,48.0,10,6,12.1,42,10,6
+51245223,"HÔPITAL DE MONTMAGNY","Chaudière-Appalaches",hopital-de-montmagny,252,123,48.8,14,5.5,8.8,23,13,5
+51221877,"HÔPITAL DE NOTRE-DAME-DU-LAC","Bas-Saint-Laurent",hopital-de-notre-dame-du-lac,252,28,11.1,5,2,5.6,12,5,2
+51228922,"HÔPITAL DE ROUYN-NORANDA","Abitibi-Témiscamingue",hopital-de-rouyn-noranda,252,21,8.3,9,2,2.3,7,9,2
+51228864,"HÔPITAL DE SAINT-EUSTACHE","Laurentides",hopital-de-saint-eustache,252,252,100.0,1,252,252.0,252,0,
+51228971,"HÔPITAL DE SAINT-GEORGES","Chaudière-Appalaches",hopital-de-saint-georges,252,94,37.3,10,1.5,9.4,46,9,1
+51228880,"HÔPITAL DE SAINT-JÉRÔME","Laurentides",hopital-de-saint-jerome,252,196,77.8,12,5.5,16.3,75,11,6
+51245231,"HÔPITAL DE THETFORD","Chaudière-Appalaches",hopital-de-thetford,251,24,9.6,8,2.5,3.0,8,8,2.5
+51225589,"HÔPITAL DE VAL-D'OR","Abitibi-Témiscamingue",hopital-de-val-d-or,252,18,7.1,3,6,6.0,9,3,6
+51218097,"HÔPITAL DE VERDUN","Montréal",hopital-de-verdun,252,191,75.8,5,17,38.2,95,5,17
+51235190,"HÔPITAL DOUGLAS","Montréal",hopital-douglas,252,49,19.4,5,12,9.8,18,5,12
+51229045,"HÔPITAL DU HAUT-RICHELIEU","Montérégie",hopital-du-haut-richelieu,252,184,73.0,19,6,9.7,40,19,6
+51217529,"HÔPITAL DU SAINT-SACREMENT","Capitale-Nationale",hopital-du-saint-sacrement,252,91,36.1,22,2,4.1,18,22,2
+51229136,"HÔPITAL DU SUROÎT","Montérégie",hopital-du-suroit,252,252,100.0,1,252,252.0,252,0,
+51228203,"HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL","Saguenay-Lac-Saint-Jean",hopital-et-centre-d-hebergement-de-roberval,252,1,0.4,1,1,1.0,1,1,1
+51224541,"HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE","Saguenay-Lac-Saint-Jean",hopital-et-centre-de-readaptation-de-jonquiere,252,18,7.1,4,4,4.5,9,4,4
+51228823,"HÔPITAL ET CHSLD DE PAPINEAU","Outaouais",hopital-et-chsld-de-papineau,252,73,29.0,13,2,5.6,22,13,2
+51219459,"HÔPITAL ET CHSLD DU PONTIAC","Outaouais",hopital-et-chsld-du-pontiac,252,27,10.7,5,4,5.4,11,5,4
+51228799,"HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL","Outaouais",hopital-et-chsld-memorial-de-wakefield-wakefield-memorial-hospital,252,47,18.7,8,3.5,5.9,23,8,3.5
+51228690,"HÔPITAL ET CLSC DE LA MALBAIE","Capitale-Nationale",hopital-et-clsc-de-la-malbaie,252,0,0.0,0,,,,0,
+51247799,"HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS","Gaspésie-Îles-de-la-Madeleine",hopital-et-clsc-de-sainte-anne-des-monts,252,3,1.2,3,1,1.0,1,2,1
+51232023,"HÔPITAL ET CLSC DE SEPT-ÎLES","Côte-Nord",hopital-et-clsc-de-sept-iles,252,252,100.0,1,252,252.0,252,0,
+51227908,"HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA","Gaspésie-Îles-de-la-Madeleine",hopital-et-groupe-de-medecine-de-famille-universitaire-de-maria,252,2,0.8,2,1,1.0,1,2,1
+51248219,"HÔPITAL GÉNÉRAL DE MONTRÉAL","Montréal",hopital-general-de-montreal,252,252,100.0,1,252,252.0,252,0,
+51228278,"HÔPITAL GÉNÉRAL DU LAKESHORE","Montréal",hopital-general-du-lakeshore,251,251,100.0,1,251,251.0,251,0,
+51248250,"HÔPITAL GÉNÉRAL JUIF","Montréal",hopital-general-juif,250,250,100.0,1,250,250.0,250,0,
+51229193,"HÔPITAL HONORÉ-MERCIER","Montérégie",hopital-honore-mercier,251,174,69.3,13,14,13.4,36,12,14
+12934659,"HÔPITAL MAISONNEUVE-ROSEMONT","Montréal",hopital-maisonneuve-rosemont,251,245,97.6,5,16,49.0,166,4,14
+51236313,"HÔPITAL NOTRE-DAME","Montréal",hopital-notre-dame,251,232,92.4,8,12,29.0,139,8,12
+51221141,"HÔPITAL NOTRE-DAME-DE-FATIMA","Bas-Saint-Laurent",hopital-notre-dame-de-fatima,252,0,0.0,0,,,,0,
+51229011,"HÔPITAL PIERRE-BOUCHER","Montérégie",hopital-pierre-boucher,252,245,97.2,4,44,61.3,142,3,70
+51228062,"HÔPITAL PIERRE-LE GARDEUR","Lanaudière",hopital-pierre-le-gardeur,249,197,79.1,14,13,14.1,44,14,13
+51227882,"HÔPITAL RÉGIONAL DE RIMOUSKI","Bas-Saint-Laurent",hopital-regional-de-rimouski,252,133,52.8,24,4,5.5,17,23,4
+51223295,"HÔPITAL ROYAL VICTORIA","Montréal",hopital-royal-victoria,252,252,100.0,1,252,252.0,252,0,
+51217602,"HÔPITAL SAINT-FRANÇOIS D'ASSISE","Capitale-Nationale",hopital-saint-francois-d-assise,252,162,64.3,16,11.5,10.1,22,15,11
+51235919,"HÔPITAL SANTA CABRINI","Montréal",hopital-santa-cabrini,251,192,76.5,12,11.5,16.0,84,11,9
+51227569,"HÔTEL-DIEU DE LÉVIS","Chaudière-Appalaches",hotel-dieu-de-levis,252,208,82.5,11,16,18.9,66,10,11
+51229102,"HÔTEL-DIEU DE SOREL","Montérégie",hotel-dieu-de-sorel,252,249,98.8,2,124.5,124.5,140,1,109
+51248201,"INSTITUT DE CARDIOLOGIE DE MONTRÉAL","Montréal",institut-de-cardiologie-de-montreal,252,0,0.0,0,,,,0,
+51232130,"INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC","Capitale-Nationale",institut-universitaire-de-cardiologie-et-de-pneumologie-de-quebec,252,123,48.8,25,4,4.9,22,25,4
+51235307,"INSTITUT UNIVERSITAIRE EN SANTÉ MENTALE DE MONTRÉAL","Montréal",institut-universitaire-en-sante-mentale-de-montreal,252,16,6.3,2,8,8.0,15,2,8
+51223279,"L'HÔPITAL DE MONTRÉAL POUR ENFANTS","Montréal",l-hopital-de-montreal-pour-enfants,252,175,69.4,10,4,17.5,76,10,4
+51217586,"L'HÔTEL-DIEU DE QUÉBEC","Capitale-Nationale",l-hotel-dieu-de-quebec,252,120,47.6,19,5,6.3,24,18,5
