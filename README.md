@@ -20,6 +20,7 @@ Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occ
 | [`data/weekday-by-er.csv`](data/weekday-by-er.csv) | 120 | each department's occupancy and headcount averaged by day of the week |
 | [`data/best-hour-by-er.csv`](data/best-hour-by-er.csv) | 108 | the quietest hour of the day at each department, and how much quieter it is |
 | [`data/hour-by-weekday-by-er.csv`](data/hour-by-weekday-by-er.csv) | 18,133 | the full hour-of-week cross-tab: one row per department, weekday and hour |
+| [`data/er-head-to-head.csv`](data/er-head-to-head.csv) | 436 | for every pair of emergency rooms in the same health region, how often each one had the shorter queue over the hours both published |
 
 `er-hourly.csv` covers 2026-09-02 06:00 to 2026-09-12 16:00, local Quebec time (America/Montreal).
 
