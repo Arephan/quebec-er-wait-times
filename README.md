@@ -4,6 +4,8 @@ Hourly emergency-room occupancy for all 120 acute-care emergency departments in 
 
 Quebec's Ministère de la Santé et des Services sociaux (MSSS) publishes ER occupancy as open data, refreshed once an hour. That feed only carries the current hour — once it refreshes, the previous reading is not available from it anymore. This repo stores the readings as they come in.
 
+Weekly averages per ER, with a chart and two CSVs (CC BY 4.0), are at [sante.handled.tools/en/hebdo](https://sante.handled.tools/en/hebdo). They are rebuilt every week from the same archive.
+
 ## Files
 
 | File | Rows | Contents |
