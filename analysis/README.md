@@ -46,7 +46,7 @@ quiet hour. The 100-reading floor above is there to limit that; the per-facility
 `n` column tells you how much of the window each one actually covered.
 
 The number is also not computable from the official source. The MSSS feed carries
-the current hour only — once it refreshes, the previous reading is gone from it.
+the current hour only, once it refreshes, the previous reading is gone from it.
 A minimum across a week exists only if somebody kept the hours, which is what this
 repo is for.
 
